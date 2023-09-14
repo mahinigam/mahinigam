@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there ![image](https://github.com/mahinigam/mahinigam/assets/99325251/64a130c0-f181-4488-8bd7-f9be0b1e6cdc)
+
 
 <!--
 **mahinigam/mahinigam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
