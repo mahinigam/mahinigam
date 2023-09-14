@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahi Nigam</h1>
 <h3 align="center">An inquisitive tech enthusiast hailing from India, eager to explore the digital realm.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahinigam" alt="mahinigam" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/immahinigam" target="blank"><img src="https://img.shields.io/twitter/follow/immahinigam?logo=twitter&style=for-the-badge" alt="immahinigam" /></a> </p>
-
-- 🌱 I’m currently learning **Javascript, React Native**
 
 - 📝 I regularly write articles on [https://mahinigam.blogspot.com/](https://mahinigam.blogspot.com/)
 
