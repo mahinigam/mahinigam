@@ -5,7 +5,7 @@
 
 - 📝 Sometimes, I write articles on [https://mahinigam.blogspot.com/](https://mahinigam.blogspot.com/)
 
-- 📫 How to reach me **mahinigam.000@gmail.com**
+- 📫 Reach me at **mahinigam.000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
