@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/immahinigam" target="blank"><img src="https://img.shields.io/twitter/follow/immahinigam?logo=twitter&style=for-the-badge" alt="immahinigam" /></a> </p>
 
-- 📝 I regularly write articles on [https://mahinigam.blogspot.com/](https://mahinigam.blogspot.com/)
+- 📝 Sometimes, I write articles on [https://mahinigam.blogspot.com/](https://mahinigam.blogspot.com/)
 
 - 📫 How to reach me **mahinigam.000@gmail.com**
 
