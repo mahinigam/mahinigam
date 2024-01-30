@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I am Mahi Nigam</h1>
 <h3 align="center">An inquisitive tech enthusiast hailing from India, eager to explore the digital realm.</h3>
 
-<p align="left"> <a href="https://twitter.com/immahinigam" target="blank"><img src="https://img.shields.io/twitter/follow/immahinigam?logo=twitter&style=for-the-badge" alt="immahinigam" /></a> </p>
 
 - 📝 Sometimes, I write articles on [https://mahinigam.blogspot.com/](https://mahinigam.blogspot.com/)
 
