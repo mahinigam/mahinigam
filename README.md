@@ -2,7 +2,7 @@
 <h3 align="center">An inquisitive tech enthusiast hailing from India, eager to explore the digital realm.</h3>
 
 
-- 📝 Sometimes, I write articles on [https://mahinigam.blogspot.com/](https://mahinigam.blogspot.com/)
+- 📝 Sometimes, I pen down my thoughts on [https://mahinigam.blogspot.com/](https://mahinigam.blogspot.com/)
 
 - 📫 Reach me at **mahinigam.000@gmail.com**
 
