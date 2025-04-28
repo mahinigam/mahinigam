@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/immahinigam" target="blank"><img align="center" src="[https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000](https://www.google.com/url?sa=i&url=https%3A%2F%2Fde.pinterest.com%2Fpin%2Ftwitter-x-logo-png-free-download--1092122978379553699%2F&psig=AOvVaw1DC0KbPZRyXu3qAAOHO_9V&ust=1745931383181000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCiwLPj-owDFQAAAAAdAAAAABAE)" alt="immahinigam" height="30" width="40" /></a>
+<a href="https://twitter.com/immahinigam" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000](https://www.google.com/url?sa=i&url=https%3A%2F%2Fde.pinterest.com%2Fpin%2Ftwitter-x-logo-png-free-download--1092122978379553699%2F&psig=AOvVaw1DC0KbPZRyXu3qAAOHO_9V&ust=1745931383181000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCiwLPj-owDFQAAAAAdAAAAABAE)" alt="immahinigam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mahinigam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahinigam" height="30" width="40" /></a>
 <a href="https://instagram.com/immahinigam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="immahinigam" height="30" width="40" /></a>
 </p>
