@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Mahi Nigam</h1>
+<h1 align="center">Hi, I am Mahi Nigam</h1>
 <h3 align="center">An inquisitive tech enthusiast hailing from India, eager to explore the digital realm.</h3>
 
 
