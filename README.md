@@ -1,19 +1,30 @@
-<h1 align="center">Hi, I am Mahi Nigam</h1>
-<h3 align="center">An inquisitive tech enthusiast hailing from India, eager to explore the digital realm.</h3>
+<h1 align="center">Hi, I'm Mahi Nigam 👋</h1>
+<h3 align="center">A curious tech enthusiast from India, exploring the digital realm one byte at a time.</h3>
 
-- 📝 Sometimes, I pen down my thoughts on [https://mahinigam.blogspot.com/](https://mahinigam.blogspot.com/)
+<p align="center">
+  📝 I sometimes share my thoughts on  
+  <a href="https://mahinigam.blogspot.com/" target="_blank"><strong>my blog</strong></a>  
+</p>
 
-- 📫 Reach me at **mahinigam.000@gmail.com**
+<p align="center">
+  📫 You can reach me at  
+  <a href="mailto:mahinigam.000@gmail.com"><strong>mahinigam.000@gmail.com</strong></a>
+</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/immahinigam" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" alt="X (formerly Twitter)" height="30" width="30" />
+---
+
+<h3 align="center">🌐 Connect with me</h3>
+
+<p align="center">
+  <a href="https://twitter.com/immahinigam" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" alt="X (Twitter)" width="35" height="35" />
   </a>
-  <a href="https://linkedin.com/in/mahinigam" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahinigam" height="30" width="40" />
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/mahinigam" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="35" height="35" />
   </a>
-  <a href="https://instagram.com/immahinigam" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="immahinigam" height="30" width="40" />
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/immahinigam" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="35" height="35" />
   </a>
 </p>
