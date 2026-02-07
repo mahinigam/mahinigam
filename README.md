@@ -6,11 +6,15 @@
 </p>
 
 <p align="center">
-  <a href="https://mahinigam.blogspot.com/" target="_blank">Blog</a>
-  ·
-  <a href="mailto:mahinigam.000@gmail.com">Email</a>
-  ·
-  <a href="https://linkedin.com/in/mahinigam" target="_blank">LinkedIn</a>
+  <a href="https://mahinigam.blogspot.com/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="16" height="16" alt="Blog"/>
+    Blog
+  </a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:mahinigam.000@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="16" height="16" alt="Email"/>
+    Email
+  </a>
 </p>
 
 <hr/>
@@ -32,23 +36,18 @@
 <hr/>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mahinigam&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=transparent"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahinigam&layout=compact&hide_border=true&theme=transparent"
-    alt="Top Languages"
-  />
-</p>
-
-<hr/>
-
-<p align="center">
-  <a href="https://twitter.com/immahinigam" target="_blank">X</a> ·
-  <a href="https://linkedin.com/in/mahinigam" target="_blank">LinkedIn</a> ·
-  <a href="https://instagram.com/immahinigam" target="_blank">Instagram</a>
+  <a href="https://twitter.com/immahinigam" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="18" height="18" alt="X"/>
+    X
+  </a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/mahinigam" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18" height="18" alt="LinkedIn"/>
+    LinkedIn
+  </a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://instagram.com/immahinigam" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="18" height="18" alt="Instagram"/>
+    Instagram
+  </a>
 </p>
