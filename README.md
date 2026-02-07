@@ -1,13 +1,17 @@
-<!-- Pixel art / header image -->
-<p align="center">
-  <img
-    src="assets/pixel.png"
-    width="72"
-    alt="Pixel art icon"
-  />
-</p>
-
-<h1 align="center">Mahi Nigam</h1>
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="assets/pixel.png"
+        width="36"
+        alt="Pixel icon"
+      />
+    </td>
+    <td>
+      <h1 style="margin: 0; padding-left: 8px;">Mahi Nigam</h1>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   Computer Science undergraduate • Data & AI enthusiast<br/>
