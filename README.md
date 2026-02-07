@@ -33,14 +33,14 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=mahinigam&show_icons=true&hide_title=true&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=mahinigam&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=transparent"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahinigam&layout=compact&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahinigam&layout=compact&hide_border=true&theme=transparent"
     alt="Top Languages"
   />
 </p>
