@@ -1,3 +1,12 @@
+<!-- Pixel art / header image -->
+<p align="center">
+  <img
+    src="assets/pixel.png"
+    width="72"
+    alt="Pixel art icon"
+  />
+</p>
+
 <h1 align="center">Mahi Nigam</h1>
 
 <p align="center">
@@ -5,6 +14,7 @@
   Interested in systems, analytics, and building thoughtful products
 </p>
 
+<!-- Primary actions -->
 <p align="center">
   <a href="https://mahinigam.blogspot.com/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="16" height="16" alt="Blog"/>
@@ -35,6 +45,7 @@
 
 <hr/>
 
+<!-- Social links (listed once) -->
 <p align="center">
   <a href="https://twitter.com/immahinigam" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="18" height="18" alt="X"/>
