@@ -2,9 +2,7 @@
 <!--                     HEADER BANNER                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mahi%20Nigam&fontSize=52&fontColor=e0d7ff&animation=fadeIn&fontAlignY=38&desc=ML%20·%20AI%20·%20Data%20·%20CS%20%2727&descSize=18&descAlignY=60&descFontColor=a78bfa" width="100%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mahi%20Nigam&fontSize=52&fontColor=e0d7ff&animation=fadeIn&fontAlignY=38&desc=ML%20%C2%B7%20AI%20%C2%B7%20Data%20%C2%B7%20CS%20%2727&descSize=18&descAlignY=60&descFontColor=a78bfa" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    TYPING ANIMATION                        -->
@@ -12,11 +10,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&width=600&height=40&lines=Building+intelligent+systems+🧠;Turning+raw+data+into+meaning+📊;CS+undergrad+|+Class+of+2027+🎓;Always+curious%2C+always+building+🔧" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&background=00000000&center=true&vCenter=true&width=600&height=40&lines=Building+intelligent+systems;Turning+raw+data+into+meaning;CS+undergrad+%7C+Class+of+2027;Always+curious%2C+always+building" alt="Typing SVG" />
 
 </div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                   PROFILE BADGES ROW                       -->
@@ -39,7 +35,7 @@
 <!--                       ABOUT ME                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## ✦ Hey, I'm Mahi 👋
+## Hey, I'm Mahi
 
 ```python
 class Mahi:
@@ -51,17 +47,17 @@ class Mahi:
         self.currently  = "Exploring real-world applications of data & intelligence"
 
     def say_hi(self):
-        print("I build things that learn. Let's connect! 🚀")
+        print("I build things that learn. Let's connect!")
 ```
 
 <br/>
 
 I'm a **CS undergrad** who's equal parts curious researcher and hands-on builder. I care deeply about the **_why_** behind data — not just the numbers, but the stories they tell and the systems they power.
 
-- 🔭 &nbsp;Building end-to-end AI/data projects that actually work in the real world
-- 🌱 &nbsp;Currently deepening expertise in ML systems & intelligent product design
-- 🧩 &nbsp;I love clean code, thoughtful architecture, and the occasional rabbit hole
-- ✍️ &nbsp;I write about tech & ideas on my [blog](https://mahinigam.blogspot.com/)
+- Building end-to-end AI/data projects that actually work in the real world
+- Currently deepening expertise in ML systems & intelligent product design
+- I love clean code, thoughtful architecture, and the occasional rabbit hole
+- I write about tech & ideas on my [blog](https://mahinigam.blogspot.com/)
 
 <br/>
 
@@ -71,7 +67,7 @@ I'm a **CS undergrad** who's equal parts curious researcher and hands-on builder
 <!--                      TECH STACK                            -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## ⚡ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -107,7 +103,7 @@ I'm a **CS undergrad** who's equal parts curious researcher and hands-on builder
 <!--                     GITHUB STATS                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -125,8 +121,6 @@ I'm a **CS undergrad** who's equal parts curious researcher and hands-on builder
 
 <br/>
 
-<!-- Activity Graph -->
-
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahinigam&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true&area_color=7c3aed)](https://github.com/mahinigam)
@@ -141,18 +135,18 @@ I'm a **CS undergrad** who's equal parts curious researcher and hands-on builder
 <!--                   FEATURED PROJECTS                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 | Project | About | Stack |
 |--------|-------|-------|
-| [**✦ aether**](https://github.com/mahinigam/aether) | *A thoughtfully built full-stack application* | `TypeScript` |
-| [**✦ autonote**](https://github.com/mahinigam/autonote) | *Automated note-taking powered by intelligence* | `Python` |
-| [**✦ task-scheduler**](https://github.com/mahinigam/task-scheduler) | *Smart task scheduling & automation* | `Python` |
-| [**✦ customer_purchase_analysis**](https://github.com/mahinigam/customer_purchase_analysis) | *Exploratory data analysis on customer behavior* | `Jupyter` |
-| [**✦ url-shortener**](https://github.com/mahinigam/url-shortener) | *Clean, fast URL shortening service* | `TypeScript` |
-| [**✦ portfolio-website**](https://github.com/mahinigam/portfolio-website) | *Personal portfolio on the web* | `JavaScript` |
+| [**aether**](https://github.com/mahinigam/aether) | *A thoughtfully built full-stack application* | `TypeScript` |
+| [**autonote**](https://github.com/mahinigam/autonote) | *Automated note-taking powered by intelligence* | `Python` |
+| [**task-scheduler**](https://github.com/mahinigam/task-scheduler) | *Smart task scheduling & automation* | `Python` |
+| [**customer_purchase_analysis**](https://github.com/mahinigam/customer_purchase_analysis) | *Exploratory data analysis on customer behavior* | `Jupyter` |
+| [**url-shortener**](https://github.com/mahinigam/url-shortener) | *Clean, fast URL shortening service* | `TypeScript` |
+| [**portfolio-website**](https://github.com/mahinigam/portfolio-website) | *Personal portfolio on the web* | `JavaScript` |
 
 </div>
 
@@ -164,12 +158,12 @@ I'm a **CS undergrad** who's equal parts curious researcher and hands-on builder
 <!--                    CONNECT WITH ME                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🌐 Let's Connect
+## Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahinigam)
-[![Twitter / X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/immahinigam)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/immahinigam)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/immahinigam)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://mahinigam.blogspot.com/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahinigam.000@gmail.com)
@@ -182,8 +176,7 @@ I'm a **CS undergrad** who's equal parts curious researcher and hands-on builder
 
 <div align="center">
 
-*"The goal is to turn data into information, and information into insight."*
-&nbsp;— Carly Fiorina
+*"The goal is to turn data into information, and information into insight."*&nbsp;— Carly Fiorina
 
 </div>
 
