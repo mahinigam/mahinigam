@@ -50,7 +50,7 @@ My GitHub work spans data analysis, document intelligence, fraud detection, retr
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ AI Risk Manager
+### AI Risk Manager
 **Fraud-spike detection & abuse-ring analysis**
 
 A fraud defense system built around **6.36M transactions**, chronological evaluation, graph analysis, explainability, and business-cost-aware decision thresholds.
@@ -65,7 +65,7 @@ A fraud defense system built around **6.36M transactions**, chronological evalua
 </td>
 <td width="50%" valign="top">
 
-### 🧠 AegisMind
+### AegisMind
 **Multimodal document intelligence & auditing**
 
 An event-driven GCP pipeline for analyzing financial and legal documents with structured AI output and human review.
@@ -82,7 +82,7 @@ An event-driven GCP pipeline for analyzing financial and legal documents with st
 <tr>
 <td width="50%" valign="top">
 
-### 🗺️ Atlas Intelligence
+### Atlas Intelligence
 **Geopolitical news analysis command center**
 
 A map-first intelligence application that aggregates, normalizes, ranks, deduplicates, and clusters news before generating country-level situation reports.
@@ -97,7 +97,7 @@ A map-first intelligence application that aggregates, normalizes, ranks, dedupli
 </td>
 <td width="50%" valign="top">
 
-### 🧭 Codebase Cartographer
+### Codebase Cartographer
 **Repository architecture & impact analysis**
 
 Turns a repository into a navigable knowledge graph of files, symbols, imports, dependencies, Git history, and AI-generated architectural context.
@@ -114,7 +114,7 @@ Turns a repository into a navigable knowledge graph of files, symbols, imports, 
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 AI Codebase Cartographer
+### AI Codebase Cartographer
 **Local RAG for software repositories**
 
 A local-first retrieval system that parses code into meaningful chunks, embeds them, stores them in **Endee**, and answers repository questions using grounded context.
@@ -129,7 +129,7 @@ A local-first retrieval system that parses code into meaningful chunks, embeds t
 </td>
 <td width="50%" valign="top">
 
-### 📝 AutoNote
+### AutoNote
 **Document → structured knowledge**
 
 A Flask application that turns PDFs, DOCX, and text into structured notes and lets users query their documents through an AI interface.
@@ -224,7 +224,7 @@ A Flask application that turns PDFs, DOCX, and text into structured notes and le
 
 I also maintain work around **open-source software, technical learning, and experimentation**. The profile includes projects ranging from data analysis and AI learning resources to larger open-source codebases and developer-focused experiments.
 
-📚 [**Read the blog**](https://mahinigam.blogspot.com/) · 💻 [**Explore all repositories**](https://github.com/mahinigam?tab=repositories)
+[**Read the blog**](https://mahinigam.blogspot.com/) · [**Explore all repositories**](https://github.com/mahinigam?tab=repositories)
 
 ---
 
