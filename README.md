@@ -1,121 +1,204 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     HEADER BANNER                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mahi%20Nigam&fontSize=52&fontColor=e0d7ff&animation=fadeIn&fontAlignY=38&desc=ML%20%C2%B7%20AI%20%C2%B7%20Data%20%C2%B7%20CS%20%2727&descSize=18&descAlignY=60&descFontColor=a78bfa" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    TYPING ANIMATION                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&background=00000000&center=true&vCenter=true&width=600&height=40&lines=Building+intelligent+systems;Turning+raw+data+into+meaning;CS+undergrad+%7C+Class+of+2027;Always+curious%2C+always+building" alt="Typing SVG" />
+# Mahi Nigam
+
+**Computer Science undergraduate · AI/ML · Data · Systems**
+
+*Building software that turns data, models, and infrastructure into useful systems.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/mahinigam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahinigam)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://mahinigam.blogspot.com/)
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   PROFILE BADGES ROW                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mahinigam&style=flat-square&color=7c3aed&label=Profile+Views)](https://github.com/mahinigam)
-[![Followers](https://img.shields.io/github/followers/mahinigam?style=flat-square&color=7c3aed&label=Followers)](https://github.com/mahinigam?tab=followers)
-[![Repos](https://img.shields.io/badge/Repos-28-7c3aed?style=flat-square)](https://github.com/mahinigam?tab=repositories)
-[![Blog](https://img.shields.io/badge/Blog-mahinigam-7c3aed?style=flat-square&logo=blogger&logoColor=white)](https://mahinigam.blogspot.com/)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,45:18181b,75:312e81,100:7c3aed&height=190&section=header&text=DATA%20%E2%86%92%20INTELLIGENCE%20%E2%86%92%20SYSTEMS&fontSize=27&fontColor=ffffff&animation=fadeIn&fontAlignY=53" width="100%"/>
 
 </div>
 
-<br/>
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=mahinigam&style=flat-square&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/mahinigam)
+[![Followers](https://img.shields.io/github/followers/mahinigam?style=flat-square&color=7c3aed&label=FOLLOWERS)](https://github.com/mahinigam?tab=followers)
+[![Repositories](https://img.shields.io/badge/Repositories-28-7c3aed?style=flat-square&logo=github&logoColor=white)](https://github.com/mahinigam?tab=repositories)
+
+</div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       ABOUT ME                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+## About
 
-## Hey, I'm Mahi
+I'm **Mahi Nigam**, a Computer Science undergraduate building across **AI/ML, data, backend systems, and developer tooling**.
 
-```python
-class Mahi:
-    def __init__(self):
-        self.name       = "Mahi Nigam"
-        self.degree     = "B.Tech Computer Science, Class of 2027"
-        self.focus      = ["Machine Learning", "Data Analytics", "AI Systems"]
-        self.loves      = ["clean pipelines", "elegant models", "curious questions"]
-        self.currently  = "Exploring real-world applications of data & intelligence"
+My GitHub work spans data analysis, document intelligence, fraud detection, retrieval systems, static analysis, and full-stack applications. I enjoy taking an idea from a model or algorithm to a usable system with APIs, pipelines, observability, failure handling, and a real interface.
 
-    def say_hi(self):
-        print("I build things that learn. Let's connect!")
+### What I work on
+
+- **Applied AI / ML** — fraud detection, multimodal document analysis, computer vision, model-driven products
+- **Data systems** — preprocessing, feature engineering, ranking, retrieval, analytics pipelines
+- **AI infrastructure** — RAG, vector search, embeddings, graph-based reasoning, evaluation
+- **Backend engineering** — FastAPI / Flask services, APIs, async workflows, caching, persistence
+- **Developer tools** — code intelligence, repository analysis, semantic search, architectural discovery
+
+---
+
+## Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ AI Risk Manager
+**Fraud-spike detection & abuse-ring analysis**
+
+A fraud defense system built around **6.36M transactions**, chronological evaluation, graph analysis, explainability, and business-cost-aware decision thresholds.
+
+- LightGBM validation: **96.06% recall / 85.81% PR-AUC**
+- Detects coordinated activity across **customers, devices, and merchants**
+- Uses **NetworkX + SHAP + Gemini** for investigation and explanation
+- Optimizes thresholds around **ROI / net savings**, not just F1
+
+[**View repository →**](https://github.com/mahinigam/ai-risk-manager)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 AegisMind
+**Multimodal document intelligence & auditing**
+
+An event-driven GCP pipeline for analyzing financial and legal documents with structured AI output and human review.
+
+- **Gemini 2.5 Flash** for multimodal analysis
+- **Cloud Run + GCS + Eventarc + Pub/Sub** architecture
+- Spatial grounding connects findings back to document locations
+- Pydantic schemas + SQL job tracking + DLQs for resilience
+
+[**View repository →**](https://github.com/mahinigam/aegismind)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗺️ Atlas Intelligence
+**Geopolitical news analysis command center**
+
+A map-first intelligence application that aggregates, normalizes, ranks, deduplicates, and clusters news before generating country-level situation reports.
+
+- **6 news providers fetched in parallel**
+- Country-aware relevance and source-reputation scoring
+- Story clustering + sentiment + concise situation reports
+- **Next.js + FastAPI + Redis + MapLibre + Gemini**
+
+[**View repository →**](https://github.com/mahinigam/atlas-intelligence)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧭 Codebase Cartographer
+**Repository architecture & impact analysis**
+
+Turns a repository into a navigable knowledge graph of files, symbols, imports, dependencies, Git history, and AI-generated architectural context.
+
+- **Neo4j** graph + vector index
+- Python AST + Tree-sitter for static analysis
+- Semantic search with grounded AI Q&A
+- Incremental rescans, risk scoring, and dependency impact analysis
+
+[**View repository →**](https://github.com/mahinigam/codebase-cartographer)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔎 AI Codebase Cartographer
+**Local RAG for software repositories**
+
+A local-first retrieval system that parses code into meaningful chunks, embeds them, stores them in **Endee**, and answers repository questions using grounded context.
+
+- AST-based Python parsing & semantic chunking
+- `BAAI/bge-small-en` embeddings
+- **Endee** vector retrieval + top-k similarity search
+- DeepSeek Coder via Ollama for local grounded generation
+
+[**View repository →**](https://github.com/mahinigam/endee)
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 AutoNote
+**Document → structured knowledge**
+
+A Flask application that turns PDFs, DOCX, and text into structured notes and lets users query their documents through an AI interface.
+
+- Gemini-powered summarization and document Q&A
+- PDF / DOCX / TXT ingestion
+- TXT / Markdown / PDF / DOCX export
+- Rate limiting and environment-based secret handling
+
+[**View repository →**](https://github.com/mahinigam/autonote)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Engineering Snapshot
+
+```text
+                    ┌──────────────────────────┐
+                    │        Mahi Nigam        │
+                    │     CS · Class of 2027    │
+                    └────────────┬─────────────┘
+                                 │
+              ┌──────────────────┼──────────────────┐
+              │                  │                  │
+          AI / ML             Data              Systems
+              │                  │                  │
+       ┌──────┼──────┐     ┌─────┼─────┐      ┌─────┼─────┐
+       │      │      │     │     │     │      │     │     │
+      RAG  Vision  Fraud  EDA  Ranking  ETL  APIs  Graph  Cloud
+       │      │      │     │     │     │      │     │     │
+       └──────┴──────┴─────┴─────┴─────┴──────┴─────┴─────┘
+                                 │
+                                 ▼
+                    ┌──────────────────────────┐
+                    │  Real, usable software   │
+                    └──────────────────────────┘
 ```
 
-<br/>
-
-I'm a **CS undergrad** who's equal parts curious researcher and hands-on builder. I care deeply about the **_why_** behind data — not just the numbers, but the stories they tell and the systems they power.
-
-- Building end-to-end AI/data projects that actually work in the real world
-- Currently deepening expertise in ML systems & intelligent product design
-- I love clean code, thoughtful architecture, and the occasional rabbit hole
-- I write about tech & ideas on my [blog](https://mahinigam.blogspot.com/)
-
-<br/>
-
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## Tech Stack
-
-**Languages**
-
-[![Python](https://skillicons.dev/icons?i=python)](https://python.org)&nbsp;
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)&nbsp;
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
-[![SQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)&nbsp;
-[![R](https://skillicons.dev/icons?i=r)](https://www.r-project.org/)
-
-**ML / AI / Data**
-
-[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org/)&nbsp;
-[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org/)&nbsp;
-[![Sklearn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)&nbsp;
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)&nbsp;
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)&nbsp;
-[![Jupyter](https://skillicons.dev/icons?i=jupyter)](https://jupyter.org/)
-
-**Tools & Infra**
-
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)&nbsp;
-[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)&nbsp;
-[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)&nbsp;
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)&nbsp;
-[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com/)&nbsp;
-[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com/)
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     GITHUB STATS                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## GitHub Stats
+## Stack
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahinigam&show_icons=true&hide_border=true&count_private=true&theme=midnight-purple&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e0d7ff&ring_color=7c3aed" alt="Mahi's GitHub Stats"/>
+**Languages**  
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/) [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/) [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![SQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/) [![R](https://skillicons.dev/icons?i=r)](https://www.r-project.org/)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahinigam&layout=compact&hide_border=true&theme=midnight-purple&bg_color=0d0d1a&title_color=a78bfa&text_color=e0d7ff&langs_count=6" alt="Top Languages"/>
+**AI / Data**  
+[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org/) [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/) [![scikit-learn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org/) [![Pandas](https://skillicons.dev/icons?i=pandas)](https://pandas.pydata.org/) [![NumPy](https://skillicons.dev/icons?i=numpy)](https://numpy.org/) [![Jupyter](https://skillicons.dev/icons?i=jupyter)](https://jupyter.org/)
+
+**Backend / Infra / Tools**  
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/) [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/) [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/) [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/) [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+
+**AI Infrastructure / Databases**  
+`RAG` · `Vector Search` · `Embeddings` · `Neo4j` · `Redis` · `NetworkX` · `Gemini` · `Ollama`
 
 </div>
 
+---
+
+## GitHub Activity
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mahinigam&hide_border=true&background=0d0d1a&stroke=7c3aed&ring=a78bfa&fire=f59e0b&currStreakNum=e0d7ff&sideNums=e0d7ff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=6b7280" alt="GitHub Streak"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=mahinigam&show_icons=true&hide_border=true&count_private=true&rank_icon=github&bg_color=09090b&title_color=c4b5fd&icon_color=a78bfa&text_color=e4e4e7" alt="Mahi's GitHub Stats"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahinigam&layout=compact&hide_border=true&langs_count=8&bg_color=09090b&title_color=c4b5fd&text_color=e4e4e7" alt="Top Languages"/>
 
 </div>
 
@@ -123,67 +206,45 @@ I'm a **CS undergrad** who's equal parts curious researcher and hands-on builder
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahinigam&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true&area_color=7c3aed)](https://github.com/mahinigam)
+<img src="https://streak-stats.demolab.com?user=mahinigam&hide_border=true&background=09090b&stroke=27272a&ring=8b5cf6&fire=f59e0b&currStreakNum=e4e4e7&sideNums=e4e4e7&currStreakLabel=c4b5fd&sideLabels=a1a1aa&dates=71717a" alt="GitHub Streak"/>
 
 </div>
 
 <br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   FEATURED PROJECTS                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## Featured Projects
 
 <div align="center">
 
-| Project | About | Stack |
-|--------|-------|-------|
-| [**aether**](https://github.com/mahinigam/aether) | *A thoughtfully built full-stack application* | `TypeScript` |
-| [**autonote**](https://github.com/mahinigam/autonote) | *Automated note-taking powered by intelligence* | `Python` |
-| [**task-scheduler**](https://github.com/mahinigam/task-scheduler) | *Smart task scheduling & automation* | `Python` |
-| [**customer_purchase_analysis**](https://github.com/mahinigam/customer_purchase_analysis) | *Exploratory data analysis on customer behavior* | `Jupyter` |
-| [**url-shortener**](https://github.com/mahinigam/url-shortener) | *Clean, fast URL shortening service* | `TypeScript` |
-| [**portfolio-website**](https://github.com/mahinigam/portfolio-website) | *Personal portfolio on the web* | `JavaScript` |
+[![Mahi's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahinigam&bg_color=09090b&color=c4b5fd&line=7c3aed&point=f59e0b&area=true&hide_border=true)](https://github.com/mahinigam)
 
 </div>
 
-<br/>
-
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    CONNECT WITH ME                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+## Beyond the Repos
+
+I also maintain work around **open-source software, technical learning, and experimentation**. The profile includes projects ranging from data analysis and AI learning resources to larger open-source codebases and developer-focused experiments.
+
+📚 [**Read the blog**](https://mahinigam.blogspot.com/) · 💻 [**Explore all repositories**](https://github.com/mahinigam?tab=repositories)
+
+---
 
 ## Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahinigam)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/immahinigam)
+[![X](https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/immahinigam)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/immahinigam)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://mahinigam.blogspot.com/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahinigam.000@gmail.com)
 
 </div>
 
 <br/>
 
----
-
 <div align="center">
 
-*"The goal is to turn data into information, and information into insight."*&nbsp;— Carly Fiorina
+### Building systems, not just demos.
 
 </div>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     FOOTER BANNER                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:312e81,100:09090b&height=120&section=footer" width="100%"/>
