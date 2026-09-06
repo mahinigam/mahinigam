@@ -32,7 +32,7 @@
 
 I'm **Mahi Nigam**, a Computer Science undergraduate building across **AI/ML, data, backend systems, and developer tooling**.
 
-My GitHub work spans data analysis, document intelligence, fraud detection, retrieval systems, static analysis, and full-stack applications. I enjoy taking an idea from a model or algorithm to a usable system with APIs, pipelines, observability, failure handling, and a real interface.
+My GitHub work spans data analysis, document intelligence, fraud detection, retrieval systems, static analysis, and full-stack applications. I focus on taking an idea from a model or algorithm to a usable system with APIs, pipelines, persistence, and a real interface.
 
 ### What I work on
 
@@ -44,132 +44,15 @@ My GitHub work spans data analysis, document intelligence, fraud detection, retr
 
 ---
 
-## Selected Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### AI Risk Manager
-**Fraud-spike detection & abuse-ring analysis**
-
-A fraud defense system built around **6.36M transactions**, chronological evaluation, graph analysis, explainability, and business-cost-aware decision thresholds.
-
-- LightGBM validation: **96.06% recall / 85.81% PR-AUC**
-- Detects coordinated activity across **customers, devices, and merchants**
-- Uses **NetworkX + SHAP + Gemini** for investigation and explanation
-- Optimizes thresholds around **ROI / net savings**, not just F1
-
-[**View repository →**](https://github.com/mahinigam/ai-risk-manager)
-
-</td>
-<td width="50%" valign="top">
-
-### AegisMind
-**Multimodal document intelligence & auditing**
-
-An event-driven GCP pipeline for analyzing financial and legal documents with structured AI output and human review.
-
-- **Gemini 2.5 Flash** for multimodal analysis
-- **Cloud Run + GCS + Eventarc + Pub/Sub** architecture
-- Spatial grounding connects findings back to document locations
-- Pydantic schemas + SQL job tracking + DLQs for resilience
-
-[**View repository →**](https://github.com/mahinigam/aegismind)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Atlas Intelligence
-**Geopolitical news analysis command center**
-
-A map-first intelligence application that aggregates, normalizes, ranks, deduplicates, and clusters news before generating country-level situation reports.
-
-- **6 news providers fetched in parallel**
-- Country-aware relevance and source-reputation scoring
-- Story clustering + sentiment + concise situation reports
-- **Next.js + FastAPI + Redis + MapLibre + Gemini**
-
-[**View repository →**](https://github.com/mahinigam/atlas-intelligence)
-
-</td>
-<td width="50%" valign="top">
-
-### Codebase Cartographer
-**Repository architecture & impact analysis**
-
-Turns a repository into a navigable knowledge graph of files, symbols, imports, dependencies, Git history, and AI-generated architectural context.
-
-- **Neo4j** graph + vector index
-- Python AST + Tree-sitter for static analysis
-- Semantic search with grounded AI Q&A
-- Incremental rescans, risk scoring, and dependency impact analysis
-
-[**View repository →**](https://github.com/mahinigam/codebase-cartographer)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### AI Codebase Cartographer
-**Local RAG for software repositories**
-
-A local-first retrieval system that parses code into meaningful chunks, embeds them, stores them in **Endee**, and answers repository questions using grounded context.
-
-- AST-based Python parsing & semantic chunking
-- `BAAI/bge-small-en` embeddings
-- **Endee** vector retrieval + top-k similarity search
-- DeepSeek Coder via Ollama for local grounded generation
-
-[**View repository →**](https://github.com/mahinigam/endee)
-
-</td>
-<td width="50%" valign="top">
-
-### AutoNote
-**Document → structured knowledge**
-
-A Flask application that turns PDFs, DOCX, and text into structured notes and lets users query their documents through an AI interface.
-
-- Gemini-powered summarization and document Q&A
-- PDF / DOCX / TXT ingestion
-- TXT / Markdown / PDF / DOCX export
-- Rate limiting and environment-based secret handling
-
-[**View repository →**](https://github.com/mahinigam/autonote)
-
-</td>
-</tr>
-</table>
-
----
-
 ## Engineering Snapshot
 
-```text
-                    ┌──────────────────────────┐
-                    │        Mahi Nigam        │
-                    │     CS · Class of 2027    │
-                    └────────────┬─────────────┘
-                                 │
-              ┌──────────────────┼──────────────────┐
-              │                  │                  │
-          AI / ML             Data              Systems
-              │                  │                  │
-       ┌──────┼──────┐     ┌─────┼─────┐      ┌─────┼─────┐
-       │      │      │     │     │     │      │     │     │
-      RAG  Vision  Fraud  EDA  Ranking  ETL  APIs  Graph  Cloud
-       │      │      │     │     │     │      │     │     │
-       └──────┴──────┴─────┴─────┴─────┴──────┴─────┴─────┘
-                                 │
-                                 ▼
-                    ┌──────────────────────────┐
-                    │  Real, usable software   │
-                    └──────────────────────────┘
-```
+<div align="center">
+
+<img src="./profile/engineering.svg" width="100%" alt="Engineering snapshot showing Mahi's focus across applied AI and ML, data, systems, and developer tooling"/>
+
+</div>
+
+The common thread across these areas is a full path from **data → models → retrieval → APIs → products**.
 
 ---
 
@@ -197,8 +80,10 @@ A Flask application that turns PDFs, DOCX, and text into structured notes and le
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=mahinigam&show_icons=true&hide_border=true&count_private=true&rank_icon=github&bg_color=09090b&title_color=c4b5fd&icon_color=a78bfa&text_color=e4e4e7" alt="Mahi's GitHub Stats"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahinigam&layout=compact&hide_border=true&langs_count=8&bg_color=09090b&title_color=c4b5fd&text_color=e4e4e7" alt="Top Languages"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/overview.dark.svg" />
+  <img src="./assets/profile/overview.light.svg" alt="GitHub contribution overview" width="100%" />
+</picture>
 
 </div>
 
@@ -206,7 +91,10 @@ A Flask application that turns PDFs, DOCX, and text into structured notes and le
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mahinigam&hide_border=true&background=09090b&stroke=27272a&ring=8b5cf6&fire=f59e0b&currStreakNum=e4e4e7&sideNums=e4e4e7&currStreakLabel=c4b5fd&sideLabels=a1a1aa&dates=71717a" alt="GitHub Streak"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/contributions.dark.svg" />
+  <img src="./assets/profile/contributions.light.svg" alt="GitHub contribution streak and calendar" width="100%" />
+</picture>
 
 </div>
 
@@ -214,7 +102,21 @@ A Flask application that turns PDFs, DOCX, and text into structured notes and le
 
 <div align="center">
 
-[![Mahi's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahinigam&bg_color=09090b&color=c4b5fd&line=7c3aed&point=f59e0b&area=true&hide_border=true)](https://github.com/mahinigam)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/rhythm.dark.svg" />
+  <img src="./assets/profile/rhythm.light.svg" alt="GitHub contribution activity rhythm" width="100%" />
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/languages.dark.svg" />
+  <img src="./assets/profile/languages.light.svg" alt="GitHub language composition" width="100%" />
+</picture>
 
 </div>
 
