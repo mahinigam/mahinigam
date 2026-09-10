@@ -7,7 +7,9 @@ on:
       - 'assets/**'
       - 'profile/**'
   schedule:
-    - cron: '17 0 * * *'
+    # Keep the generated profile cards close to live GitHub data.
+    # GitHub Actions supports a minimum scheduled cadence of once per hour.
+    - cron: '17 * * * *'
   workflow_dispatch:
 
 permissions:
