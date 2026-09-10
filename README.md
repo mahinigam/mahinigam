@@ -8,7 +8,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/mahinigam)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahinigam)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://mahinigam.blogspot.com/)
 
 </div>
 
@@ -22,7 +21,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mahinigam&style=flat-square&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/mahinigam)
 [![Followers](https://img.shields.io/github/followers/mahinigam?style=flat-square&color=7c3aed&label=FOLLOWERS)](https://github.com/mahinigam?tab=followers)
-[![Repositories](https://img.shields.io/badge/Repositories-28-7c3aed?style=flat-square&logo=github&logoColor=white)](https://github.com/mahinigam?tab=repositories)
+[![Repositories](https://img.shields.io/badge/dynamic/json?style=flat-square&color=7c3aed&label=REPOSITORIES&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmahinigam)](https://github.com/mahinigam?tab=repositories)
 
 </div>
 
@@ -126,7 +125,7 @@ The common thread across these areas is a full path from **data → models → r
 
 I also maintain work around **open-source software, technical learning, and experimentation**. The profile includes projects ranging from data analysis and AI learning resources to larger open-source codebases and developer-focused experiments.
 
-[**Read the blog**](https://mahinigam.blogspot.com/) · [**Explore all repositories**](https://github.com/mahinigam?tab=repositories)
+[**Explore all repositories**](https://github.com/mahinigam?tab=repositories)
 
 ---
 
