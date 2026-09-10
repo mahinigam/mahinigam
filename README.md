@@ -79,42 +79,38 @@ The common thread across these areas is a full path from **data → models → r
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/overview.dark.svg" />
-  <img src="./assets/profile/overview.light.svg" alt="GitHub contribution overview" width="100%" />
-</picture>
+### Live profile overview
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mahinigam&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahinigam&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=default" alt="Live GitHub profile statistics" width="100%" />
+</picture>
 
 <br/>
 
-<div align="center">
+### Contribution activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/contributions.dark.svg" />
-  <img src="./assets/profile/contributions.light.svg" alt="GitHub contribution streak and calendar" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mahinigam&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahinigam&theme=github-compact&hide_border=true" alt="Live GitHub contribution activity graph" width="100%" />
 </picture>
-
-</div>
 
 <br/>
 
-<div align="center">
+### Streak & rhythm
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/rhythm.dark.svg" />
-  <img src="./assets/profile/rhythm.light.svg" alt="GitHub contribution activity rhythm" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mahinigam&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=mahinigam&theme=default&hide_border=true" alt="Live GitHub contribution streak statistics" width="100%" />
 </picture>
-
-</div>
 
 <br/>
 
-<div align="center">
+### Language composition
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/languages.dark.svg" />
-  <img src="./assets/profile/languages.light.svg" alt="GitHub language composition" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mahinigam&layout=compact&langs_count=10&hide_border=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahinigam&layout=compact&langs_count=10&hide_border=true&theme=default" alt="Live GitHub language composition" width="100%" />
 </picture>
 
 </div>
