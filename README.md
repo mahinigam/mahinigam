@@ -109,8 +109,8 @@ The common thread across these areas is a full path from **data → models → r
 ### Language composition
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mahinigam&layout=compact&langs_count=10&hide_border=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahinigam&layout=compact&langs_count=10&hide_border=true&theme=default" alt="Live GitHub language composition" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahinigam&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahinigam&theme=default" alt="Live GitHub language composition" width="100%" />
 </picture>
 
 </div>
