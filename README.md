@@ -48,8 +48,6 @@ HTML          █░░░░░░░░░░░░░░░░░░░   3.0
 - `2026-10-01` Pushed to [mahinigam/trentorch-solutions](https://github.com/mahinigam/trentorch-solutions)
 <!--END:activity-->
 
-<sub>The three sections above refresh automatically every 6 hours via GitHub Actions.</sub>
-
 ---
 
 Open to internships and collaboration on AI/ML and data systems. Email is the best way to reach me.
