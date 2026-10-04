@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="146" viewBox="0 0 640 146" font-family='ui-monospace, "SF Mono", Menlo, Consolas, "DejaVu Sans Mono", "Courier New", monospace' role="img" aria-label="GitHub stats: 34 repositories, 1 stars, 12 followers">
+<title>GitHub stats: 34 repositories, 1 stars, 12 followers</title>
+<rect x="9" y="9" width="628" height="134" fill="#000"/>
+<rect x="3" y="3" width="628" height="134" fill="#fff" stroke="#000" stroke-width="2"/>
+<g stroke="#000" stroke-width="1"><line x1="41" y1="10" x2="593" y2="10"/><line x1="41" y1="13" x2="593" y2="13"/><line x1="41" y1="16" x2="593" y2="16"/><line x1="41" y1="19" x2="593" y2="19"/><line x1="41" y1="22" x2="593" y2="22"/><line x1="41" y1="25" x2="593" y2="25"/><line x1="41" y1="28" x2="593" y2="28"/></g>
+<rect x="236.4" y="8" width="161.2" height="20" fill="#fff"/>
+<circle cx="254.4" cy="18.0" r="4" fill="#000"/>
+<text x="268.4" y="22.5" font-size="12" font-weight="bold" text-anchor="start" fill="#000" letter-spacing="2">AT A GLANCE</text>
+<rect x="15" y="11.0" width="14" height="14" fill="#fff" stroke="#000" stroke-width="2"/>
+<rect x="605" y="11.0" width="14" height="14" fill="#000"/>
+<line x1="3" y1="33" x2="631" y2="33" stroke="#000" stroke-width="2"/>
+<g transform="translate(3,33)">
+<text x="104.7" y="56.0" font-size="40" font-weight="bold" text-anchor="middle" fill="#000" letter-spacing="0">34</text>
+<text x="104.7" y="80.0" font-size="11" font-weight="bold" text-anchor="middle" fill="#000" letter-spacing="2">REPOSITORIES</text>
+<text x="314.0" y="56.0" font-size="40" font-weight="bold" text-anchor="middle" fill="#000" letter-spacing="0">1</text>
+<text x="314.0" y="80.0" font-size="11" font-weight="bold" text-anchor="middle" fill="#000" letter-spacing="2">STARS</text>
+<line x1="209.3" y1="16" x2="209.3" y2="86" stroke="#000" stroke-width="2"/>
+<text x="523.3" y="56.0" font-size="40" font-weight="bold" text-anchor="middle" fill="#000" letter-spacing="0">12</text>
+<text x="523.3" y="80.0" font-size="11" font-weight="bold" text-anchor="middle" fill="#000" letter-spacing="2">FOLLOWERS</text>
+<line x1="418.7" y1="16" x2="418.7" y2="86" stroke="#000" stroke-width="2"/>
+</g>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="250" viewBox="0 0 640 250" font-family='ui-monospace, "SF Mono", Menlo, Consolas, "DejaVu Sans Mono", "Courier New", monospace' role="img" aria-label="Languages: TypeScript 46%, Python 35%, JavaScript 5%, Swift 4%, CSS 4%, HTML 3%">
+<title>Languages: TypeScript 46%, Python 35%, JavaScript 5%, Swift 4%, CSS 4%, HTML 3%</title>
+<rect x="9" y="9" width="628" height="238" fill="#000"/>
+<rect x="3" y="3" width="628" height="238" fill="#fff" stroke="#000" stroke-width="2"/>
+<g stroke="#000" stroke-width="1"><line x1="41" y1="10" x2="593" y2="10"/><line x1="41" y1="13" x2="593" y2="13"/><line x1="41" y1="16" x2="593" y2="16"/><line x1="41" y1="19" x2="593" y2="19"/><line x1="41" y1="22" x2="593" y2="22"/><line x1="41" y1="25" x2="593" y2="25"/><line x1="41" y1="28" x2="593" y2="28"/></g>
+<rect x="245.6" y="8" width="142.8" height="20" fill="#fff"/>
+<circle cx="263.6" cy="18.0" r="4" fill="#000"/>
+<text x="277.6" y="22.5" font-size="12" font-weight="bold" text-anchor="start" fill="#000" letter-spacing="2">LANGUAGES</text>
+<rect x="15" y="11.0" width="14" height="14" fill="#fff" stroke="#000" stroke-width="2"/>
+<rect x="605" y="11.0" width="14" height="14" fill="#000"/>
+<line x1="3" y1="33" x2="631" y2="33" stroke="#000" stroke-width="2"/>
+<g transform="translate(3,33)">
+<text x="24.0" y="32.0" font-size="13" font-weight="bold" text-anchor="start" fill="#000" letter-spacing="0">TypeScript</text>
+<rect x="150" y="20" width="382" height="16" fill="#eceded" stroke="#000" stroke-width="2"/>
+<rect x="152" y="22" width="172.4" height="12" fill="#000"/>
+<text x="604.0" y="32.0" font-size="13" font-weight="normal" text-anchor="end" fill="#000" letter-spacing="0">45.6%</text>
+<text x="24.0" y="62.0" font-size="13" font-weight="bold" text-anchor="start" fill="#000" letter-spacing="0">Python</text>
+<rect x="150" y="50" width="382" height="16" fill="#eceded" stroke="#000" stroke-width="2"/>
+<rect x="152" y="52" width="130.8" height="12" fill="#000"/>
+<text x="604.0" y="62.0" font-size="13" font-weight="normal" text-anchor="end" fill="#000" letter-spacing="0">34.6%</text>
+<text x="24.0" y="92.0" font-size="13" font-weight="bold" text-anchor="start" fill="#000" letter-spacing="0">JavaScript</text>
+<rect x="150" y="80" width="382" height="16" fill="#eceded" stroke="#000" stroke-width="2"/>
+<rect x="152" y="82" width="18.4" height="12" fill="#000"/>
+<text x="604.0" y="92.0" font-size="13" font-weight="normal" text-anchor="end" fill="#000" letter-spacing="0">4.9%</text>
+<text x="24.0" y="122.0" font-size="13" font-weight="bold" text-anchor="start" fill="#000" letter-spacing="0">Swift</text>
+<rect x="150" y="110" width="382" height="16" fill="#eceded" stroke="#000" stroke-width="2"/>
+<rect x="152" y="112" width="15.6" height="12" fill="#000"/>
+<text x="604.0" y="122.0" font-size="13" font-weight="normal" text-anchor="end" fill="#000" letter-spacing="0">4.1%</text>
+<text x="24.0" y="152.0" font-size="13" font-weight="bold" text-anchor="start" fill="#000" letter-spacing="0">CSS</text>
+<rect x="150" y="140" width="382" height="16" fill="#eceded" stroke="#000" stroke-width="2"/>
+<rect x="152" y="142" width="15.5" height="12" fill="#000"/>
+<text x="604.0" y="152.0" font-size="13" font-weight="normal" text-anchor="end" fill="#000" letter-spacing="0">4.1%</text>
+<text x="24.0" y="182.0" font-size="13" font-weight="bold" text-anchor="start" fill="#000" letter-spacing="0">HTML</text>
+<rect x="150" y="170" width="382" height="16" fill="#eceded" stroke="#000" stroke-width="2"/>
+<rect x="152" y="172" width="11.3" height="12" fill="#000"/>
+<text x="604.0" y="182.0" font-size="13" font-weight="normal" text-anchor="end" fill="#000" letter-spacing="0">3.0%</text>
+</g>
+</svg>
