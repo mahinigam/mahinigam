@@ -1,55 +1,19 @@
-# Mahi Nigam
+<div align="center">
 
-CS undergraduate working across AI/ML, data, and backend systems. I like taking an idea from a model or algorithm to something that actually runs: an API, a pipeline, an interface.
+<img src="assets/header.svg" width="640" alt="Mahi Nigam: CS undergraduate working across AI/ML, data and backend systems. Open to internships and collaboration.">
 
 [LinkedIn](https://linkedin.com/in/mahinigam) · [X](https://twitter.com/immahinigam) · [Email](mailto:mahinigam.000@gmail.com)
 
----
+<img src="assets/focus.svg" width="640" alt="Focus areas: applied ML, retrieval and data, backend, developer tools">
 
-### What I work on
+<img src="assets/toolbox.svg" width="640" alt="Toolbox: Python, TypeScript, PyTorch, FastAPI, Docker and more">
 
-- **Applied ML:** fraud detection, computer vision, document intelligence
-- **Retrieval and data:** RAG, vector search, embeddings, feature engineering
-- **Backend:** FastAPI and Flask services, async workflows, caching, persistence
-- **Developer tools:** repository analysis, semantic code search
+<img src="assets/stats.svg" width="640" alt="GitHub stats: repositories, stars and followers">
 
-### Toolbox
+<img src="assets/languages.svg" width="640" alt="Most used languages across my repositories">
 
-`Python` `TypeScript` `SQL` `R` · `PyTorch` `TensorFlow` `scikit-learn` `Pandas` `NumPy` · `FastAPI` `Flask` `Docker` `Redis` `Neo4j` `Linux` `Git`
+<img src="assets/activity.svg" width="640" alt="Latest public GitHub activity">
 
----
+<sub>Stats, languages and activity refresh automatically every 6 hours.</sub>
 
-### At a glance
-
-<!--START:stats-->
-**34** public repositories · **1** stars earned · **12** followers
-<!--END:stats-->
-
-### Languages across my repos
-
-<!--START:languages-->
-```text
-TypeScript    █████████░░░░░░░░░░░  45.7%
-Python        ███████░░░░░░░░░░░░░  34.4%
-JavaScript    █░░░░░░░░░░░░░░░░░░░   4.9%
-Swift         █░░░░░░░░░░░░░░░░░░░   4.1%
-CSS           █░░░░░░░░░░░░░░░░░░░   4.1%
-HTML          █░░░░░░░░░░░░░░░░░░░   3.0%
-```
-<!--END:languages-->
-
-### Latest activity
-
-<!--START:activity-->
-- `2026-10-04` Pushed to [mahinigam/mahinigam](https://github.com/mahinigam/mahinigam)
-- `2026-10-02` Pushed to [mahinigam/codebase-cartographer](https://github.com/mahinigam/codebase-cartographer)
-- `2026-10-01` Pushed to [mahinigam/trentorch-solutions](https://github.com/mahinigam/trentorch-solutions)
-- `2026-10-02` Pushed to [mahinigam/codebase-cartographer-showcase](https://github.com/mahinigam/codebase-cartographer-showcase)
-- `2026-10-02` Pushed to [mahinigam/portfolio-website](https://github.com/mahinigam/portfolio-website)
-<!--END:activity-->
-
-<sub>The three sections above refresh automatically every 6 hours via GitHub Actions.</sub>
-
----
-
-Open to internships and collaboration on AI/ML and data systems. Email is the best way to reach me.
+</div>
