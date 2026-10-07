@@ -29,8 +29,8 @@ CS undergraduate working across AI/ML, data, and backend systems. I like taking 
 
 <!--START:languages-->
 ```text
-TypeScript    █████████░░░░░░░░░░░  44.8%
-Python        ███████░░░░░░░░░░░░░  35.7%
+TypeScript    █████████░░░░░░░░░░░  44.6%
+Python        ███████░░░░░░░░░░░░░  36.0%
 JavaScript    █░░░░░░░░░░░░░░░░░░░   4.8%
 Swift         █░░░░░░░░░░░░░░░░░░░   4.0%
 CSS           █░░░░░░░░░░░░░░░░░░░   4.0%
@@ -41,11 +41,11 @@ HTML          █░░░░░░░░░░░░░░░░░░░   2.9
 ### Latest activity
 
 <!--START:activity-->
+- `2026-10-07` Pushed to [mahinigam/breakpoint](https://github.com/mahinigam/breakpoint)
 - `2026-10-06` Pushed to [mahinigam/breakpoint](https://github.com/mahinigam/breakpoint)
 - `2026-10-04` Pushed to [mahinigam/codebase-cartographer](https://github.com/mahinigam/codebase-cartographer)
 - `2026-10-04` Pushed to [mahinigam/mahinigam](https://github.com/mahinigam/mahinigam)
 - `2026-10-02` Pushed to [mahinigam/codebase-cartographer-showcase](https://github.com/mahinigam/codebase-cartographer-showcase)
-- `2026-10-02` Pushed to [mahinigam/portfolio-website](https://github.com/mahinigam/portfolio-website)
 <!--END:activity-->
 
 ---
