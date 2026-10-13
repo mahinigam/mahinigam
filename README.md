@@ -22,30 +22,27 @@ CS undergraduate working across AI/ML, data, and backend systems. I like taking 
 ### At a glance
 
 <!--START:stats-->
-**35** public repositories · **1** stars earned · **12** followers
+**36** public repositories · **1** stars earned · **12** followers
 <!--END:stats-->
 
 ### Languages across my repos
 
 <!--START:languages-->
 ```text
-TypeScript    █████████░░░░░░░░░░░  44.6%
-Python        ███████░░░░░░░░░░░░░  36.0%
-JavaScript    █░░░░░░░░░░░░░░░░░░░   4.8%
-Swift         █░░░░░░░░░░░░░░░░░░░   4.0%
-CSS           █░░░░░░░░░░░░░░░░░░░   4.0%
-HTML          █░░░░░░░░░░░░░░░░░░░   2.9%
+TypeScript    ████████░░░░░░░░░░░░  41.2%
+Python        ████████░░░░░░░░░░░░  40.9%
+JavaScript    █░░░░░░░░░░░░░░░░░░░   4.4%
+Swift         █░░░░░░░░░░░░░░░░░░░   3.7%
+CSS           █░░░░░░░░░░░░░░░░░░░   3.7%
+HTML          █░░░░░░░░░░░░░░░░░░░   2.7%
 ```
 <!--END:languages-->
 
 ### Latest activity
 
 <!--START:activity-->
-- `2026-10-07` Pushed to [mahinigam/breakpoint](https://github.com/mahinigam/breakpoint)
-- `2026-10-06` Pushed to [mahinigam/breakpoint](https://github.com/mahinigam/breakpoint)
-- `2026-10-04` Pushed to [mahinigam/codebase-cartographer](https://github.com/mahinigam/codebase-cartographer)
-- `2026-10-04` Pushed to [mahinigam/mahinigam](https://github.com/mahinigam/mahinigam)
-- `2026-10-02` Pushed to [mahinigam/codebase-cartographer-showcase](https://github.com/mahinigam/codebase-cartographer-showcase)
+- `2026-10-13` Pull request in [mahinigam/company-wise-dsa](https://github.com/mahinigam/company-wise-dsa)
+- `2026-10-13` Pushed to [mahinigam/company-wise-dsa](https://github.com/mahinigam/company-wise-dsa)
 <!--END:activity-->
 
 ---
