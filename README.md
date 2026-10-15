@@ -22,19 +22,19 @@ CS undergraduate working across AI/ML, data, and backend systems. I like taking 
 ### At a glance
 
 <!--START:stats-->
-**36** public repositories · **1** stars earned · **12** followers
+**37** public repositories · **1** stars earned · **12** followers
 <!--END:stats-->
 
 ### Languages across my repos
 
 <!--START:languages-->
 ```text
-TypeScript    ████████░░░░░░░░░░░░  41.2%
-Python        ████████░░░░░░░░░░░░  40.9%
-JavaScript    █░░░░░░░░░░░░░░░░░░░   4.4%
-Swift         █░░░░░░░░░░░░░░░░░░░   3.7%
-CSS           █░░░░░░░░░░░░░░░░░░░   3.7%
-HTML          █░░░░░░░░░░░░░░░░░░░   2.7%
+Python        █████████░░░░░░░░░░░  43.6%
+TypeScript    ████████░░░░░░░░░░░░  38.9%
+JavaScript    █░░░░░░░░░░░░░░░░░░░   4.1%
+Swift         █░░░░░░░░░░░░░░░░░░░   3.5%
+CSS           █░░░░░░░░░░░░░░░░░░░   3.5%
+Java          █░░░░░░░░░░░░░░░░░░░   3.1%
 ```
 <!--END:languages-->
 
@@ -42,9 +42,9 @@ HTML          █░░░░░░░░░░░░░░░░░░░   2.7
 
 <!--START:activity-->
 - `2026-10-13` Pushed to [mahinigam/company-wise-dsa](https://github.com/mahinigam/company-wise-dsa)
-- `2026-10-13` Pull request in [mahinigam/company-wise-dsa](https://github.com/mahinigam/company-wise-dsa)
-- `2026-10-13` Pull request in [mahinigam/mahinigam](https://github.com/mahinigam/mahinigam)
 - `2026-10-13` Pushed to [mahinigam/mahinigam](https://github.com/mahinigam/mahinigam)
+- `2026-10-13` Pushed to [mahinigam/backend-handbook](https://github.com/mahinigam/backend-handbook)
+- `2026-10-13` Pushed to [mahinigam/skill-marketplace](https://github.com/mahinigam/skill-marketplace)
 <!--END:activity-->
 
 ---
