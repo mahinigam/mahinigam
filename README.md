@@ -41,11 +41,11 @@ Java          █░░░░░░░░░░░░░░░░░░░   2.6
 ### Latest activity
 
 <!--START:activity-->
+- `2026-10-16` Pushed to [mahinigam/newtonite](https://github.com/mahinigam/newtonite)
 - `2026-10-16` Pull request in [mahinigam/newtonite](https://github.com/mahinigam/newtonite)
 - `2026-10-15` Pushed to [mahinigam/leetcode-solutions](https://github.com/mahinigam/leetcode-solutions)
 - `2026-10-13` Pushed to [mahinigam/company-wise-dsa](https://github.com/mahinigam/company-wise-dsa)
 - `2026-10-13` Pushed to [mahinigam/mahinigam](https://github.com/mahinigam/mahinigam)
-- `2026-10-13` Pushed to [mahinigam/backend-handbook](https://github.com/mahinigam/backend-handbook)
 <!--END:activity-->
 
 ---
