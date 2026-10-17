@@ -29,23 +29,23 @@ CS undergraduate working across AI/ML, data, and backend systems. I like taking 
 
 <!--START:languages-->
 ```text
-Python        █████████░░░░░░░░░░░  43.6%
-TypeScript    ████████░░░░░░░░░░░░  38.9%
-JavaScript    █░░░░░░░░░░░░░░░░░░░   4.1%
-Swift         █░░░░░░░░░░░░░░░░░░░   3.5%
-CSS           █░░░░░░░░░░░░░░░░░░░   3.5%
-Java          █░░░░░░░░░░░░░░░░░░░   3.1%
+Python        ██████████░░░░░░░░░░  47.9%
+TypeScript    ███████░░░░░░░░░░░░░  36.7%
+JavaScript    █░░░░░░░░░░░░░░░░░░░   3.6%
+CSS           █░░░░░░░░░░░░░░░░░░░   3.3%
+Swift         █░░░░░░░░░░░░░░░░░░░   3.0%
+Java          █░░░░░░░░░░░░░░░░░░░   2.6%
 ```
 <!--END:languages-->
 
 ### Latest activity
 
 <!--START:activity-->
+- `2026-10-16` Pull request in [mahinigam/newtonite](https://github.com/mahinigam/newtonite)
 - `2026-10-15` Pushed to [mahinigam/leetcode-solutions](https://github.com/mahinigam/leetcode-solutions)
 - `2026-10-13` Pushed to [mahinigam/company-wise-dsa](https://github.com/mahinigam/company-wise-dsa)
 - `2026-10-13` Pushed to [mahinigam/mahinigam](https://github.com/mahinigam/mahinigam)
 - `2026-10-13` Pushed to [mahinigam/backend-handbook](https://github.com/mahinigam/backend-handbook)
-- `2026-10-13` Pushed to [mahinigam/skill-marketplace](https://github.com/mahinigam/skill-marketplace)
 <!--END:activity-->
 
 ---
