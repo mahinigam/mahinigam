@@ -29,20 +29,20 @@ CS undergraduate working across AI/ML, data, and backend systems. I like taking 
 
 <!--START:languages-->
 ```text
-Python        ██████████░░░░░░░░░░  47.9%
-TypeScript    ███████░░░░░░░░░░░░░  36.7%
-JavaScript    █░░░░░░░░░░░░░░░░░░░   3.6%
-CSS           █░░░░░░░░░░░░░░░░░░░   3.3%
-Swift         █░░░░░░░░░░░░░░░░░░░   3.0%
-Java          █░░░░░░░░░░░░░░░░░░░   2.6%
+Python        ██████████░░░░░░░░░░  48.7%
+TypeScript    ███████░░░░░░░░░░░░░  36.6%
+JavaScript    █░░░░░░░░░░░░░░░░░░░   3.4%
+CSS           █░░░░░░░░░░░░░░░░░░░   3.2%
+Swift         █░░░░░░░░░░░░░░░░░░░   2.8%
+Java          █░░░░░░░░░░░░░░░░░░░   2.5%
 ```
 <!--END:languages-->
 
 ### Latest activity
 
 <!--START:activity-->
-- `2026-10-16` Pushed to [mahinigam/newtonite](https://github.com/mahinigam/newtonite)
-- `2026-10-16` Pull request in [mahinigam/newtonite](https://github.com/mahinigam/newtonite)
+- `2026-10-16` Pushed to [mahinigam/newtonite-ops-23131011193](https://github.com/mahinigam/newtonite-ops-23131011193)
+- `2026-10-16` Pull request in [mahinigam/newtonite-ops-23131011193](https://github.com/mahinigam/newtonite-ops-23131011193)
 - `2026-10-15` Pushed to [mahinigam/leetcode-solutions](https://github.com/mahinigam/leetcode-solutions)
 - `2026-10-13` Pushed to [mahinigam/company-wise-dsa](https://github.com/mahinigam/company-wise-dsa)
 - `2026-10-13` Pushed to [mahinigam/mahinigam](https://github.com/mahinigam/mahinigam)
