@@ -22,30 +22,30 @@ CS undergraduate working across AI/ML, data, and backend systems. I like taking 
 ### At a glance
 
 <!--START:stats-->
-**38** public repositories · **1** stars earned · **12** followers
+**39** public repositories · **1** stars earned · **12** followers
 <!--END:stats-->
 
 ### Languages across my repos
 
 <!--START:languages-->
 ```text
-Python        ██████████░░░░░░░░░░  48.7%
-TypeScript    ███████░░░░░░░░░░░░░  36.5%
-JavaScript    █░░░░░░░░░░░░░░░░░░░   3.4%
-CSS           █░░░░░░░░░░░░░░░░░░░   3.3%
-Swift         █░░░░░░░░░░░░░░░░░░░   2.8%
-Java          ░░░░░░░░░░░░░░░░░░░░   2.5%
+Python        █████████░░░░░░░░░░░  47.2%
+TypeScript    ███████░░░░░░░░░░░░░  35.3%
+HTML          █░░░░░░░░░░░░░░░░░░░   5.1%
+JavaScript    █░░░░░░░░░░░░░░░░░░░   3.3%
+CSS           █░░░░░░░░░░░░░░░░░░░   3.2%
+Swift         █░░░░░░░░░░░░░░░░░░░   2.7%
 ```
 <!--END:languages-->
 
 ### Latest activity
 
 <!--START:activity-->
+- `2026-10-20` Pull request in [mahinigam/ai-app-blueprint](https://github.com/mahinigam/ai-app-blueprint)
+- `2026-10-20` Pushed to [mahinigam/ai-app-blueprint](https://github.com/mahinigam/ai-app-blueprint)
 - `2026-10-19` Pull request in [mahinigam/newtonite-ops-23131011193](https://github.com/mahinigam/newtonite-ops-23131011193)
 - `2026-10-19` Pushed to [mahinigam/newtonite-ops-23131011193](https://github.com/mahinigam/newtonite-ops-23131011193)
 - `2026-10-18` Pushed to [mahinigam/newtonite-ops-23131011193](https://github.com/mahinigam/newtonite-ops-23131011193)
-- `2026-10-18` Pull request in [mahinigam/newtonite-ops-23131011193](https://github.com/mahinigam/newtonite-ops-23131011193)
-- `2026-10-16` Pushed to [mahinigam/newtonite-ops-23131011193](https://github.com/mahinigam/newtonite-ops-23131011193)
 <!--END:activity-->
 
 ---
