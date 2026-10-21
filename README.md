@@ -29,10 +29,10 @@ CS undergraduate working across AI/ML, data, and backend systems. I like taking 
 
 <!--START:languages-->
 ```text
-Python        █████████░░░░░░░░░░░  47.2%
-TypeScript    ███████░░░░░░░░░░░░░  35.3%
-HTML          █░░░░░░░░░░░░░░░░░░░   5.1%
-JavaScript    █░░░░░░░░░░░░░░░░░░░   3.3%
+Python        █████████░░░░░░░░░░░  46.6%
+TypeScript    ███████░░░░░░░░░░░░░  34.9%
+HTML          █░░░░░░░░░░░░░░░░░░░   6.0%
+JavaScript    █░░░░░░░░░░░░░░░░░░░   3.6%
 CSS           █░░░░░░░░░░░░░░░░░░░   3.2%
 Swift         █░░░░░░░░░░░░░░░░░░░   2.7%
 ```
@@ -41,8 +41,8 @@ Swift         █░░░░░░░░░░░░░░░░░░░   2.7
 ### Latest activity
 
 <!--START:activity-->
-- `2026-10-20` Pull request in [mahinigam/ai-app-blueprint](https://github.com/mahinigam/ai-app-blueprint)
 - `2026-10-20` Pushed to [mahinigam/ai-app-blueprint](https://github.com/mahinigam/ai-app-blueprint)
+- `2026-10-20` Pull request in [mahinigam/ai-app-blueprint](https://github.com/mahinigam/ai-app-blueprint)
 - `2026-10-19` Pull request in [mahinigam/newtonite-ops-23131011193](https://github.com/mahinigam/newtonite-ops-23131011193)
 - `2026-10-19` Pushed to [mahinigam/newtonite-ops-23131011193](https://github.com/mahinigam/newtonite-ops-23131011193)
 - `2026-10-18` Pushed to [mahinigam/newtonite-ops-23131011193](https://github.com/mahinigam/newtonite-ops-23131011193)
