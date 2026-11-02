@@ -29,9 +29,9 @@ CS undergraduate working across AI/ML, data, and backend systems. I like taking 
 
 <!--START:languages-->
 ```text
-Python        █████████░░░░░░░░░░░  46.6%
-TypeScript    ███████░░░░░░░░░░░░░  34.9%
-HTML          █░░░░░░░░░░░░░░░░░░░   6.0%
+Python        █████████░░░░░░░░░░░  46.9%
+TypeScript    ███████░░░░░░░░░░░░░  34.6%
+HTML          █░░░░░░░░░░░░░░░░░░░   5.9%
 JavaScript    █░░░░░░░░░░░░░░░░░░░   3.6%
 CSS           █░░░░░░░░░░░░░░░░░░░   3.2%
 Swift         █░░░░░░░░░░░░░░░░░░░   2.7%
