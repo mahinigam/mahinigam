@@ -29,23 +29,23 @@ CS undergraduate working across AI/ML, data, and backend systems. I like taking 
 
 <!--START:languages-->
 ```text
-Python        █████████░░░░░░░░░░░  46.9%
-TypeScript    ███████░░░░░░░░░░░░░  34.6%
-HTML          █░░░░░░░░░░░░░░░░░░░   5.9%
-JavaScript    █░░░░░░░░░░░░░░░░░░░   3.6%
-CSS           █░░░░░░░░░░░░░░░░░░░   3.2%
-Swift         █░░░░░░░░░░░░░░░░░░░   2.7%
+Python        ██████████░░░░░░░░░░  49.3%
+TypeScript    ███████░░░░░░░░░░░░░  33.0%
+HTML          █░░░░░░░░░░░░░░░░░░░   5.6%
+JavaScript    █░░░░░░░░░░░░░░░░░░░   3.5%
+CSS           █░░░░░░░░░░░░░░░░░░░   3.0%
+Swift         █░░░░░░░░░░░░░░░░░░░   2.5%
 ```
 <!--END:languages-->
 
 ### Latest activity
 
 <!--START:activity-->
+- `2026-11-03` Pull request in [mahinigam/portfolio-website](https://github.com/mahinigam/portfolio-website)
+- `2026-11-03` Pull request in [mahinigam/breakpoint](https://github.com/mahinigam/breakpoint)
+- `2026-11-02` Pushed to [mahinigam/codebase-cartographer](https://github.com/mahinigam/codebase-cartographer)
 - `2026-10-20` Pushed to [mahinigam/ai-app-blueprint](https://github.com/mahinigam/ai-app-blueprint)
 - `2026-10-20` Pull request in [mahinigam/ai-app-blueprint](https://github.com/mahinigam/ai-app-blueprint)
-- `2026-10-19` Pushed to [mahinigam/newtonite-ops-23131011193](https://github.com/mahinigam/newtonite-ops-23131011193)
-- `2026-10-19` Pull request in [mahinigam/newtonite-ops-23131011193](https://github.com/mahinigam/newtonite-ops-23131011193)
-- `2026-10-18` Pushed to [mahinigam/newtonite-ops-23131011193](https://github.com/mahinigam/newtonite-ops-23131011193)
 <!--END:activity-->
 
 ---
