@@ -22,19 +22,19 @@ CS undergraduate working across AI/ML, data, and backend systems. I like taking 
 ### At a glance
 
 <!--START:stats-->
-**39** public repositories · **1** stars earned · **12** followers
+**40** public repositories · **1** stars earned · **12** followers
 <!--END:stats-->
 
 ### Languages across my repos
 
 <!--START:languages-->
 ```text
-Python        ██████████░░░░░░░░░░  49.6%
-TypeScript    ███████░░░░░░░░░░░░░  32.8%
-HTML          █░░░░░░░░░░░░░░░░░░░   5.6%
-JavaScript    █░░░░░░░░░░░░░░░░░░░   3.4%
-CSS           █░░░░░░░░░░░░░░░░░░░   3.0%
-Swift         █░░░░░░░░░░░░░░░░░░░   2.5%
+Python        █████████░░░░░░░░░░░  45.8%
+TypeScript    ████████░░░░░░░░░░░░  37.9%
+HTML          █░░░░░░░░░░░░░░░░░░░   5.2%
+JavaScript    █░░░░░░░░░░░░░░░░░░░   3.2%
+CSS           █░░░░░░░░░░░░░░░░░░░   2.8%
+Swift         ░░░░░░░░░░░░░░░░░░░░   2.3%
 ```
 <!--END:languages-->
 
