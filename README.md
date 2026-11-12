@@ -29,10 +29,10 @@ CS undergraduate working across AI/ML, data, and backend systems. I like taking 
 
 <!--START:languages-->
 ```text
-Python        █████████░░░░░░░░░░░  45.8%
-TypeScript    ████████░░░░░░░░░░░░  37.9%
-HTML          █░░░░░░░░░░░░░░░░░░░   5.2%
-JavaScript    █░░░░░░░░░░░░░░░░░░░   3.2%
+Python        █████████░░░░░░░░░░░  45.1%
+TypeScript    ████████░░░░░░░░░░░░  38.8%
+HTML          █░░░░░░░░░░░░░░░░░░░   5.1%
+JavaScript    █░░░░░░░░░░░░░░░░░░░   3.1%
 CSS           █░░░░░░░░░░░░░░░░░░░   2.8%
 Swift         ░░░░░░░░░░░░░░░░░░░░   2.3%
 ```
@@ -41,11 +41,11 @@ Swift         ░░░░░░░░░░░░░░░░░░░░   2.3
 ### Latest activity
 
 <!--START:activity-->
+- `2026-11-10` Pushed to [mahinigam/archatlas](https://github.com/mahinigam/archatlas)
 - `2026-11-04` Released in [mahinigam/breakpoint](https://github.com/mahinigam/breakpoint)
 - `2026-11-03` Pull request in [mahinigam/portfolio-website](https://github.com/mahinigam/portfolio-website)
 - `2026-11-03` Pushed to [mahinigam/portfolio-website](https://github.com/mahinigam/portfolio-website)
 - `2026-11-03` Pushed to [mahinigam/breakpoint](https://github.com/mahinigam/breakpoint)
-- `2026-11-03` Pull request in [mahinigam/breakpoint](https://github.com/mahinigam/breakpoint)
 <!--END:activity-->
 
 ---
