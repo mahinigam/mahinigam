@@ -74,59 +74,40 @@ I am a Computer Science undergraduate focused on the engineering layer of AI/ML:
 
 ### `03 // MISSION CONTROL: FEATURED BUILDS`
 
-<!-- ==================== REPO CARD 1: ATLAS.INTELLIGENCE ==================== -->
 <table width="100%">
-  <tr>
-    <td>
-      <!-- Terminal Window Bar -->
-      <table width="100%" border="0">
-        <tr>
-          <td align="left">
-            🔴 🟡 🟢 &nbsp; <code><b>daemon // atlas-intelligence-engine:v2.4 [PID: 4096]</b></code>
-          </td>
-          <td align="right">
-            <img src="https://img.shields.io/badge/STATUS-OPERATIONAL%20%E2%97%8F-10b981?style=flat-square&logo=prometheus&logoColor=white" height="18" alt="Status" />
-            <img src="https://img.shields.io/badge/INGESTION-CONCURRENT%20ASYNC-38bdf8?style=flat-square" height="18" alt="Engine" />
-          </td>
-        </tr>
-      </table>
-      <hr />
-      
-      <!-- Split View: Live Pin Card + Live Terminal Telemetry -->
-      <table width="100%" border="0">
-        <tr>
-          <td width="48%" valign="top" align="center">
-            <a href="https://github.com/mahinigam/Atlas.Intelligence">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahinigam&repo=Atlas.Intelligence&theme=tokyonight&bg_color=0b0e14&border_color=26314a&title_color=38bdf8&text_color=e8eef7&icon_color=38bdf8" width="100%" alt="Atlas.Intelligence Repo Card" />
-            </a>
-          </td>
-          <td width="52%" valign="top">
-            <p>
-              <code><b>[LIVE_PIPELINE_TELEMETRY]</b></code><br />
-              <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&pause=1200&color=38BDF8&background=0B0E1400&vCenter=true&width=440&lines=%3E%20atlas-daemon%3A%20ingesting%2014%20concurrent%20news%20streams...;%3E%20deduplicating%20vector%20embeddings%20%28sim%20%3E%200.88%29...;%3E%20redis%20geospatial%20tile%20cache%20hit%20%5B3.8ms%5D...;%3E%20gemini-flash%3A%20situation%20summary%20generated%20%5BOK%5D" alt="Live Telemetry Stream" />
-            </p>
-            <table>
-              <tr>
-                <td><code><b>Architecture</b></code></td>
-                <td><code>FastAPI • Next.js • MapLibre GL • Gemini API</code></td>
-              </tr>
-              <tr>
-                <td><code><b>Throughput</b></code></td>
-                <td><code>~1,200 events/min concurrent deduplication</code></td>
-              </tr>
-              <tr>
-                <td><code><b>Response Latency</b></code></td>
-                <td><code>p50: 16ms • p99: 44ms (Redis warmed)</code></td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-
-      <!-- Expandable Architecture & Data Flow Inspector -->
-      <details>
-        <summary><b>🔍 [CLICK TO EXPAND PIPELINE ARCHITECTURE & DATAFLOW SPECS]</b></summary>
-        <br />
+<tr>
+<th colspan="2" align="left">
+🔴 🟡 🟢 &nbsp; <code><b>daemon // atlas-intelligence-engine:v2.4 [PID: 4096]</b></code> &nbsp;
+<img src="https://img.shields.io/badge/STATUS-OPERATIONAL%20%E2%97%8F-10b981?style=flat-square&logo=prometheus&logoColor=white" height="18" alt="Status" />
+<img src="https://img.shields.io/badge/INGESTION-CONCURRENT%20ASYNC-38bdf8?style=flat-square" height="18" alt="Engine" />
+</th>
+</tr>
+<tr>
+<td width="48%" valign="top" align="center">
+<br />
+<a href="https://github.com/mahinigam/Atlas.Intelligence">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahinigam&repo=Atlas.Intelligence&theme=tokyonight&bg_color=0b0e14&border_color=26314a&title_color=38bdf8&text_color=e8eef7&icon_color=38bdf8" width="100%" alt="Atlas.Intelligence Repo Card" />
+</a>
+<br /><br />
+<a href="https://github.com/mahinigam/Atlas.Intelligence"><b>⚡ Launch Atlas.Intelligence Repository & Source Code →</b></a>
+</td>
+<td width="52%" valign="top">
+<p>
+<code><b>[LIVE_PIPELINE_TELEMETRY]</b></code><br />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&pause=1200&color=38BDF8&background=0B0E1400&vCenter=true&width=400&lines=%3E%20atlas-daemon%3A%20ingesting%2014%20concurrent%20news%20streams...;%3E%20deduplicating%20vector%20embeddings%20%28sim%20%3E%200.88%29...;%3E%20redis%20geospatial%20tile%20cache%20hit%20%5B3.8ms%5D...;%3E%20gemini-flash%3A%20situation%20summary%20generated%20%5BOK%5D" alt="Live Telemetry Stream" />
+</p>
+<p>
+• <b>Architecture:</b> <code>FastAPI • Next.js • MapLibre GL • Gemini API</code><br />
+• <b>Throughput:</b> <code>~1,200 events/min concurrent deduplication</code><br />
+• <b>Response Latency:</b> <code>p50: 16ms • p99: 44ms (Redis warmed)</code>
+</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<details>
+<summary><b>🔍 [CLICK TO EXPAND PIPELINE ARCHITECTURE & DATAFLOW SPECS]</b></summary>
+<br />
 <pre>
 ┌────────────────────────┐      Concurrent HTTPX      ┌────────────────────────┐
 │ Global Feeds / Signals │ ─────────────────────────▶ │ FastAPI Async Ingestion│
@@ -146,76 +127,53 @@ I am a Computer Science undergraduate focused on the engineering layer of AI/ML:
                                             │ MapLibre 60 FPS Viewport    │
                                             └─────────────────────────────┘
 </pre>
-        <p align="center">
-          <a href="https://github.com/mahinigam/Atlas.Intelligence"><b>⚡ Launch Atlas.Intelligence Repository & Source Code →</b></a>
-        </p>
-      </details>
-    </td>
-  </tr>
+</details>
+</td>
+</tr>
 </table>
 
 <br />
 
-<!-- ==================== REPO CARD 2: GRAPH-RAG & RETRIEVAL ENGINE ==================== -->
 <table width="100%">
-  <tr>
-    <td>
-      <!-- Terminal Window Bar -->
-      <table width="100%" border="0">
-        <tr>
-          <td align="left">
-            🔴 🟡 🟢 &nbsp; <code><b>daemon // semantic-graph-rag.service:v1.2 [PID: 8192]</b></code>
-          </td>
-          <td align="right">
-            <img src="https://img.shields.io/badge/STATUS-ACTIVE%20%E2%97%8F-10b981?style=flat-square&logo=neo4j&logoColor=white" height="18" alt="Status" />
-            <img src="https://img.shields.io/badge/GRAPH-SUB--MS%20TRAVERSAL-38bdf8?style=flat-square" height="18" alt="Graph Engine" />
-          </td>
-        </tr>
-      </table>
-      <hr />
-      
-      <!-- Split View: Architecture Spec + Live Terminal Telemetry -->
-      <table width="100%" border="0">
-        <tr>
-          <td width="48%" valign="top">
-            <h4 style="margin:0 0 6px 0;">🧠 Semantic Graph & Vector Retrieval Engine</h4>
-            <p>
-              High-throughput retrieval framework combining <b>dense vector similarity search</b> with <b>knowledge graph traversals</b> for deep entity contextualization and code repository reasoning.
-            </p>
-            <p>
-              <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-              <img src="https://img.shields.io/badge/Neo4j-45818E?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
-              <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-              <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-            </p>
-          </td>
-          <td width="52%" valign="top">
-            <p>
-              <code><b>[LIVE_GRAPH_TRAVERSAL_LOGS]</b></code><br />
-              <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&pause=1200&color=38BDF8&background=0B0E1400&vCenter=true&width=440&lines=%3E%20rag-daemon%3A%20indexing%20AST%20symbol%20relations...;%3E%20dense%20vector%20cosine%20top_k%3D5%20%5B11.2ms%5D...;%3E%20neo4j%20hop%3A%20caller_hierarchy%20resolved...;%3E%20context%20window%20synthesized%20cleanly%20%5BOK%5D" alt="Live Graph Log Stream" />
-            </p>
-            <table>
-              <tr>
-                <td><code><b>Indexing</b></code></td>
-                <td><code>Hierarchical chunking + AST symbol extraction</code></td>
-              </tr>
-              <tr>
-                <td><code><b>Retrieval</b></code></td>
-                <td><code>Hybrid (Dense Vector + Cypher 2-Hop Graph)</code></td>
-              </tr>
-              <tr>
-                <td><code><b>Cache Layer</b></code></td>
-                <td><code>Multi-tier LRU memory + Redis persistent cache</code></td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-
-      <!-- Expandable Graph Inspection Details -->
-      <details>
-        <summary><b>🔍 [CLICK TO EXPAND KNOWLEDGE GRAPH & HYBRID RETRIEVAL DATAFLOW]</b></summary>
-        <br />
+<tr>
+<th colspan="2" align="left">
+🔴 🟡 🟢 &nbsp; <code><b>daemon // semantic-graph-rag.service:v1.2 [PID: 8192]</b></code> &nbsp;
+<img src="https://img.shields.io/badge/STATUS-ACTIVE%20%E2%97%8F-10b981?style=flat-square&logo=neo4j&logoColor=white" height="18" alt="Status" />
+<img src="https://img.shields.io/badge/GRAPH-SUB--MS%20TRAVERSAL-38bdf8?style=flat-square" height="18" alt="Graph Engine" />
+</th>
+</tr>
+<tr>
+<td width="48%" valign="top">
+<h4>🧠 Semantic Graph & Vector Retrieval Engine</h4>
+<p>
+High-throughput retrieval framework combining <b>dense vector similarity search</b> with <b>knowledge graph traversals</b> for deep entity contextualization and code repository reasoning.
+</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Neo4j-45818E?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
+<br />
+<a href="https://github.com/mahinigam"><b>⚡ Explore Code Repositories & Implementations →</b></a>
+</td>
+<td width="52%" valign="top">
+<p>
+<code><b>[LIVE_GRAPH_TRAVERSAL_LOGS]</b></code><br />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&pause=1200&color=38BDF8&background=0B0E1400&vCenter=true&width=400&lines=%3E%20rag-daemon%3A%20indexing%20AST%20symbol%20relations...;%3E%20dense%20vector%20cosine%20top_k%3D5%20%5B11.2ms%5D...;%3E%20neo4j%20hop%3A%20caller_hierarchy%20resolved...;%3E%20context%20window%20synthesized%20cleanly%20%5BOK%5D" alt="Live Graph Log Stream" />
+</p>
+<p>
+• <b>Indexing:</b> <code>Hierarchical chunking + AST symbol extraction</code><br />
+• <b>Retrieval:</b> <code>Hybrid (Dense Vector + Cypher 2-Hop Graph)</code><br />
+• <b>Cache Layer:</b> <code>Multi-tier LRU memory + Redis persistent cache</code>
+</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<details>
+<summary><b>🔍 [CLICK TO EXPAND KNOWLEDGE GRAPH & HYBRID RETRIEVAL DATAFLOW]</b></summary>
+<br />
 <pre>
  [ Raw Query / Prompt ] ──────▶ [ Semantic Embeddings Model ] ──────▶ [ Dense Vector Similarity ]
                                                │                                   │
@@ -233,12 +191,9 @@ I am a Computer Science undergraduate focused on the engineering layer of AI/ML:
                                               ▼
                                [ Synthesized Grounded Context ]
 </pre>
-        <p align="center">
-          <a href="https://github.com/mahinigam"><b>⚡ Explore Code Repositories & Implementations →</b></a>
-        </p>
-      </details>
-    </td>
-  </tr>
+</details>
+</td>
+</tr>
 </table>
 
 ---
