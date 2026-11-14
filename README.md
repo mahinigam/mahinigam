@@ -10,37 +10,37 @@
 
   <br />
 
-  <!-- Themed Badges & Auto-Incrementing Visitor Counter -->
+  <!-- High-Contrast Badges & Metrics -->
   <p align="center">
-    <a href="https://linkedin.com/in/mahinigam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://twitter.com/immahinigam"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-    <a href="mailto:mahinigam.000@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/mahinigam"><img src="https://komarev.com/ghpvc/?username=mahinigam&style=for-the-badge&color=38bdf8&label=Profile+Views" alt="Profile Views" /></a>
+    <a href="https://linkedin.com/in/mahinigam"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0b0e14" alt="LinkedIn" /></a>
+    <a href="https://twitter.com/immahinigam"><img src="https://img.shields.io/badge/X-181717?style=flat-square&logo=x&logoColor=white&labelColor=0b0e14" alt="X" /></a>
+    <a href="mailto:mahinigam.000@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0b0e14" alt="Email" /></a>
+    <a href="https://github.com/mahinigam"><img src="https://komarev.com/ghpvc/?username=mahinigam&style=flat-square&color=38bdf8&label=SYS::VISITORS" alt="Profile Views" /></a>
   </p>
 
 </div>
 
 ---
 
-### `01 // STRATEGIC ARCHITECTURE & FOCUS`
+### [ 01 ] SYSTEM ARCHITECTURE & STRATEGIC FOCUS
 
-I am a Computer Science undergraduate working across **Applied AI/ML, Data Systems, and Strategic Mechanism Design**. I focus on taking an idea from a mathematical model or algorithm to something that actually runs: an API, a pipeline, an observable distributed service.
+Computer Science undergraduate working across **Applied Machine Learning, Strategic Systems, and Backend Architecture**. Focused on moving mathematical models and algorithms into deterministic, observable production services.
 
 ```
-  ┌─────────────────────────────────────────────────────────────┐
-  │         INDIVIDUAL & COLLECTIVE INCENTIVE SIGNALS           │
-  └──────────────────────────────┬──────────────────────────────┘
-                                 │
-                                 ▼
-  ┌─────────────────────────────────────────────────────────────┐
-  │        STRATEGIC DECISION-MAKING & REPEATED HORIZONS        │
-  └──────────────┬───────────────────────────────┬──────────────┘
-                 │                               │
-                 ▼                               ▼
-  ┌─────────────────────────────┐ ┌─────────────────────────────┐
-  │    EQUILIBRIUM CONVERGENCE  │ │    SYSTEMIC PARETO WELFARE  │
-  │     (Nash Stability Sinks)  │ │   (Iterated Tit-For-Tat)    │
-  └─────────────────────────────┘ └─────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────┐
+│               INDIVIDUAL & COLLECTIVE INCENTIVE SIGNALS                │
+└───────────────────────────────────┬────────────────────────────────────┘
+                                    │
+                                    ▼
+┌────────────────────────────────────────────────────────────────────────┐
+│             STRATEGIC DECISION-MAKING & REPEATED HORIZONS              │
+└───────────────────┬────────────────────────────────┬───────────────────┘
+                    │                                │
+                    ▼                                ▼
+┌───────────────────────────────────────┐ ┌──────────────────────────────┐
+│ EQUILIBRIUM STABILITY                 │ │ SYSTEMIC WELFARE             │
+│ Unilateral Deviation Proof (Nash Sunk)│ │ Pareto Dominance (Reciprocal)│
+└───────────────────────────────────────┘ └──────────────────────────────┘
 ```
 
 - **Applied Machine Learning:** Fraud classification, computer vision, document intelligence, and automated evaluation metrics.
@@ -49,21 +49,21 @@ I am a Computer Science undergraduate working across **Applied AI/ML, Data Syste
 
 ---
 
-### `02 // THE TOOLBOX`
+### [ 02 ] TECHNICAL TOOLBOX
 
 <div align="left">
 
-#### ⚙️ Languages & Runtimes
+#### RUNTIMES & CORE LANGUAGES
 <p>
   <img src="https://skillicons.dev/icons?i=python,ts,postgres,cpp,r&perline=10" alt="Languages" />
 </p>
 
-#### 🧠 Machine Learning & Data Engineering
+#### STATISTICAL MODELING & DATA SYSTEMS
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy&perline=10" alt="Machine Learning" />
 </p>
 
-#### 🚀 Microservices, Caching & Infrastructure
+#### PERSISTENCE & INFRASTRUCTURE
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,redis,postgres,linux,git,postman&perline=10" alt="Infrastructure" />
 </p>
@@ -72,64 +72,69 @@ I am a Computer Science undergraduate working across **Applied AI/ML, Data Syste
 
 ---
 
-### `03 // MISSION CONTROL: GAME THEORY & STRATEGIC LABS`
+### [ 03 ] STRATEGIC SIMULATION LABS
 
 <!-- ==================== STATION 1: NASH EQUILIBRIUM VS. PARETO OPTIMALITY ==================== -->
 <table width="100%">
 <tr>
 <th colspan="2" align="left">
-🔴 🟡 🟢 &nbsp; <code><b>daemon // equilibrium-analyzer:v2.1 [PID: 2048]</b></code> &nbsp;
-<img src="https://img.shields.io/badge/STATUS-CONVERGED%20%E2%97%8F-10b981?style=flat-square&logo=prometheus&logoColor=white" height="18" alt="Status" />
-<img src="https://img.shields.io/badge/STATE-NASH%20STABLE%20%E2%89%A0%20PARETO%20OPTIMAL-38bdf8?style=flat-square" height="18" alt="State" />
+<code>[sys::daemon] // equilibrium-analyzer:v2.1 [PID: 2048]</code> &nbsp;
+<img src="https://img.shields.io/badge/STATUS-CONVERGED-10b981?style=flat-square&labelColor=0b0e14" height="18" alt="Status" />
+<img src="https://img.shields.io/badge/EQUILIBRIUM-NASH_STABLE_≠_PARETO_OPTIMAL-38bdf8?style=flat-square&labelColor=0b0e14" height="18" alt="State" />
 </th>
 </tr>
 <tr>
 <td width="48%" valign="top">
-<h4>⚖️ Station 1: Nash Equilibrium vs. Pareto Optimality</h4>
+<h4>STATION_01 :: NASH EQUILIBRIUM VS. PARETO OPTIMALITY</h4>
 <p>
-<b>A stable situation is not necessarily an optimal situation.</b> A <b>Nash Equilibrium</b> represents a state where no participant can unilaterally improve their payoff. <b>Pareto Optimality</b> defines an outcome where no party can be made better off without harming another.
+<b>A stable situation is not necessarily an optimal situation.</b>
+A Nash Equilibrium defines a state where no participant can unilaterally improve their payoff. Pareto Optimality defines an outcome where no party can be made better off without harming another.
 </p>
 <pre>
-┌─────────────────────────┬─────────────────────────┐
-│ C (Maintain Price)      │ D (Under-Cut Price)     │
-├─────────────────────────┼─────────────────────────┤
-│C │ (3, 3) ★ Pareto      │ (0, 5)                  │
-│D │ (5, 0)               │ (1, 1) ⚡ Nash Trap     │
-└─────────────────────────┴─────────────────────────┘
+NASH CRITERION:   ∀i, uᵢ(sᵢ*, s₋ᵢ*) ≥ uᵢ(sᵢ, s₋ᵢ*)
+PARETO DOMINANCE: ¬∃ s' s.t. ∀i uᵢ(s') ≥ uᵢ(s) ∧ ∃j uⱼ(s') > uⱼ(s)
+
+┌─────────────────────────────┬─────────────────────────────┐
+│ STRATEGY: MAINTAIN [C]      │ STRATEGY: DEFECT / CUT [D]  │
+├─────────────────────────────┼─────────────────────────────┤
+│ C │ (3, 3) [PARETO OPTIMAL] │ (0, 5)                      │
+│ D │ (5, 0)                  │ (1, 1) [NASH STABLE EQUIL.] │
+└─────────────────────────────┴─────────────────────────────┘
 </pre>
 <p>
-At <code>(1, 1)</code>, neither player can unilaterally deviate without worsening their outcome. Yet, it remains strictly inferior to mutual cooperation <code>(3, 3)</code>.
+At <code>(1, 1)</code>, unilateral deviation is strictly penalized. Yet, it remains Pareto-inferior to mutual cooperation <code>(3, 3)</code>.
 </p>
 </td>
 <td width="52%" valign="top">
 <p>
-<code><b>[LIVE_EQUILIBRIUM_TELEMETRY]</b></code><br />
+<code><b>[TELEMETRY_LOGS]</b></code><br />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&pause=1200&color=38BDF8&background=0B0E1400&vCenter=true&width=410&lines=%3E%20evaluating%20strategic%20payoff%20matrix...;%3E%20unilateral%20deviation%20check%3A%20dU/ds%20%3D%200%20%5BNASH%5D;%3E%20global%20welfare%20check%3A%20%283%2C3%29%20%3E%20%281%2C1%29%20%5BPARETO%20INFERIOR%5D;%3E%20systemic%20lock-in%3A%20stability%20%21%3D%20optimality" alt="Live Telemetry" />
 </p>
 <p>
-• <b>Stability Trait:</b> <code>Zero unilateral incentive to deviate (dPayoff/ds_i &lt;= 0)</code><br />
-• <b>Welfare Failure:</b> <code>Strictly Pareto-dominated by mutual cooperation: (1, 1) &lt; (3, 3)</code><br />
-• <b>Systemic Trap:</b> <code>Individual rationality leads directly to collective suboptimality</code>
+• <b>Stability Property:</b> <code>Zero unilateral incentive to deviate (∂uᵢ/∂sᵢ ≤ 0)</code><br />
+• <b>Welfare Deficit:</b> <code>Strictly Pareto-dominated by cooperation: (1, 1) &lt; (3, 3)</code><br />
+• <b>Analytical Paradox:</b> <code>Individual rationality converges into collective suboptimality</code>
 </p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
 <details>
-<summary><b>🔍 [CLICK TO EXPAND CONTRARIAN TAKEAWAY: NASH EQUILIBRIUM VS. PARETO OPTIMALITY]</b></summary>
+<summary><b>[+] INSPECT FORMAL PROOF & CONTRARIAN TAKEAWAY</b></summary>
 <br />
 <blockquote>
 <b>A stable situation is not necessarily a good situation.</b>
 <br /><br />
-This becomes apparent when studying Nash Equilibrium and Pareto Optimality in Game Theory. Both concepts deal with the outcomes of strategic interactions, but they describe two different properties:
+Both concepts deal with the outcomes of strategic interactions, but describe two fundamentally distinct properties:
+<ul>
+<li><b>Nash Equilibrium</b> concerns strategic stability: a state where no participant can improve their payoff through a unilateral change in strategy.</li>
+<li><b>Pareto Optimality</b> concerns global welfare: an outcome where it is impossible to make any player better off without making another worse off.</li>
+</ul>
+Consider two companies in a price war. Both maintaining baseline pricing yields robust margins <code>(3, 3)</code>. Yet each has an individual incentive to undercut the other if the competitor holds firm. When both act on this incentive, both end up at depleted margins <code>(1, 1)</code>. 
 <br /><br />
-Consider two companies competing in the same market. Both decide whether to maintain prices or reduce them to attract customers. If both maintain prices, both earn strong profits. However, each company has an individual incentive to undercut the other if the competitor maintains theirs. When both follow this reasoning, both end up slashing prices.
+At <code>(1, 1)</code>, neither can unilaterally raise prices without conceding all volume—the state is a <b>Nash Equilibrium</b>. Yet it is strictly Pareto-inefficient relative to coordinated cooperation.
 <br /><br />
-Now, neither company can improve its outcome simply by changing its own decision while the other maintains its price war. This is the definition of a <b>Nash Equilibrium</b>: no player can improve their payoff through a unilateral change in strategy.
-<br /><br />
-<b>Pareto Optimality</b> deals with a different question: an outcome is Pareto optimal when there is no alternative outcome that makes at least one player better off without making another worse off. In our market, mutual price maintenance is Pareto superior, yet neither player has an individual incentive to preserve it unilaterally.
-<br /><br />
-<b>Core Lesson:</b> Nash Equilibrium concerns strategic stability. Pareto Optimality concerns mutual efficiency. We often mistake stability for optimality. Just because nobody has an incentive to change a situation individually does not mean it is the best outcome they could collectively achieve.
+<b>Core Thesis:</b> Nash Equilibrium governs stability; Pareto Optimality governs mutual efficiency. Conflating stability with optimality is a systemic flaw. Just because an equilibrium resists unilateral deviation does not mean it maximizes collective utility.
 </blockquote>
 </details>
 </td>
@@ -142,64 +147,64 @@ Now, neither company can improve its outcome simply by changing its own decision
 <table width="100%">
 <tr>
 <th colspan="2" align="left">
-🔴 🟡 🟢 &nbsp; <code><b>daemon // iterated-game-engine:v3.0 [PID: 4096]</b></code> &nbsp;
-<img src="https://img.shields.io/badge/STATUS-ITERATING%20ROUND%201%2C000%20%E2%97%8F-10b981?style=flat-square&logo=prometheus&logoColor=white" height="18" alt="Status" />
-<img src="https://img.shields.io/badge/POLICY-TIT--FOR--TAT%20RECIPROCITY-38bdf8?style=flat-square" height="18" alt="Policy" />
+<code>[sys::daemon] // iterated-game-engine:v3.0 [PID: 4096]</code> &nbsp;
+<img src="https://img.shields.io/badge/STATUS-ITERATING_R1000-10b981?style=flat-square&labelColor=0b0e14" height="18" alt="Status" />
+<img src="https://img.shields.io/badge/STRATEGY-TIT_FOR_TAT_RECIPROCITY-38bdf8?style=flat-square&labelColor=0b0e14" height="18" alt="Policy" />
 </th>
 </tr>
 <tr>
 <td width="48%" valign="top">
-<h4>🔁 Station 2: Prisoner's Dilemma vs. Repeated Games</h4>
+<h4>STATION_02 :: PRISONER'S DILEMMA VS. REPEATED GAMES</h4>
 <p>
-<b>The same decision produces opposite outcomes depending on whether you expect to interact again.</b> In a one-shot game, defection is strictly dominant. When interactions repeat across an indefinite horizon, the <i>shadow of the future</i> transforms cooperation into the rational strategy.
+<b>The identical choice yields inverse outcomes depending on the horizon of interaction.</b>
+In a one-shot game, defection strictly dominates. Over an indefinite repeated horizon, the <i>shadow of the future</i> makes cooperation mathematically rational.
 </p>
 <pre>
-┌───────────────────────┬───────────────────────┐
-│ One-Shot Horizon      │ Iterated Horizon (δ)  │
-├───────────────────────┼───────────────────────┤
-│ Backward induction    │ Credible retaliation  │
-│ collapses trust.      │ penalizes defectors.  │
-│ Outcome: All Defect.  │ Outcome: Tit-for-Tat. │
-└───────────────────────┴───────────────────────┘
+ONE-SHOT HORIZON:
+↳ Horizon T = 1 ➔ Defection strictly dominates ➔ Sunk Payoff: (1, 1)
+
+ITERATED HORIZON (DISCOUNT FACTOR δ):
+↳ Lifetime Payoff: Vᵢ = ∑_{t=0}^∞ δᵗ uᵢ(aₜ)
+↳ Cooperation is Subgame Perfect iff: δ ≥ (T - R) / (T - P)
 </pre>
 </td>
 <td width="52%" valign="top">
 <p>
-<code><b>[LIVE_ITERATION_STREAM]</b></code><br />
+<code><b>[TELEMETRY_LOGS]</b></code><br />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&pause=1200&color=38BDF8&background=0B0E1400&vCenter=true&width=410&lines=%3E%20iterated%20horizon%3A%20discounted%20%28delta%20%3D%200.95%29...;%3E%20round%20842%3A%20player_1%20coop%20-%3E%20player_2%20mirrors%20%28TFT%29...;%3E%20folk%20theorem%20satisfied%3A%20delta%20%3E%3D%20%28T-R%29/%28T-P%29...;%3E%20emergent%20cooperation%20sustained%20without%20altruism" alt="Live Iteration Stream" />
 </p>
 <p>
-• <b>The Tit-for-Tat Rule:</b> <code>Start by cooperating ➔ mirror previous action ➔ immediately forgive</code><br />
-• <b>Folk Theorem Condition:</b> <code>Discount factor delta &gt;= (T - R)/(T - P) guarantees cooperation</code><br />
-• <b>Strategic Shift:</b> <code>Future consequences eliminate the short-term advantage of betrayal</code>
+• <b>Tit-for-Tat State Machine:</b> <code>Cooperate on t=0 ➔ mirror a_{t-1} ➔ immediately forgive on return</code><br />
+• <b>Folk Theorem Boundary:</b> <code>Discount factor δ ≥ (T - R)/(T - P) sustains cooperative equilibrium</code><br />
+• <b>Incentive Inversion:</b> <code>Future retaliation eliminates the short-term surplus of betrayal</code>
 </p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
 <details>
-<summary><b>🔍 [CLICK TO EXPAND PRACTICAL LESSON: PRISONER'S DILEMMA VS. REPEATED GAMES]</b></summary>
+<summary><b>[+] INSPECT REPEATED GAME DYNAMICS & RECIPROCAL ENFORCEMENT</b></summary>
 <br />
 <blockquote>
-<b>The same decision can produce different outcomes depending on whether you expect to interact with the other person again.</b>
+<b>The same decision produces different outcomes depending on whether you expect to interact with the other party again.</b>
 <br /><br />
-In a one-shot Prisoner's Dilemma, each player has an incentive to defect regardless of the counterpart's choice, resulting in harsh sentences for both. Because the interaction terminates immediately, coordination is impossible.
+In a one-shot Prisoner's Dilemma, each player possesses a structural incentive to defect regardless of counterpart choice, collapsing payoffs for both. Because the game terminates immediately, coordination mechanisms fail.
 <br /><br />
-Now, consider what happens when the game is played repeatedly:
+When the game is iterated indefinitely:
 <ul>
-<li>Current decisions directly influence future responses.</li>
-<li>A player who defects today faces retaliatory punishment tomorrow.</li>
-<li>Consistent cooperation establishes a verifiable reputation for trustworthiness.</li>
+<li>Current choices directly condition future counter-strategies.</li>
+<li>Unilateral defection triggers credible retaliation in subsequent stages.</li>
+<li>Consistent cooperation constructs an observable reputation for reciprocity.</li>
 </ul>
-This fundamentally restructures the incentives. Cooperation emerges not out of altruism, but because players recognize that their current decisions extend into future payoffs.
+This alters the objective function: cooperation emerges not via altruism, but because players discount future losses against immediate gains.
 <br /><br />
-<b>The Tit-for-Tat Strategy:</b>
+<b>The Tit-for-Tat Specification:</b>
 <ol>
-<li>Start by cooperating.</li>
-<li>In subsequent rounds, repeat the counterpart's previous action.</li>
-<li>Cooperate when they cooperate; respond with retaliation when they defect; forgive when they return to cooperation.</li>
+<li>Initialize with cooperation.</li>
+<li>In all subsequent rounds, execute the counterpart's preceding action.</li>
+<li>Reward cooperation with cooperation; penalize defection with immediate retaliation; resume cooperation upon counterpart reconciliation.</li>
 </ol>
-This dynamic governs business relationships, open-source software, professional networks, and negotiations. Evaluating a decision solely by its immediate one-shot payoff is a strategic error—the shadow of the future changes everything.
+This structure explains stability in technical consortia, distributed consensus protocols, and long-term contracts. Evaluating a strategic decision purely on its immediate one-shot payoff is a fundamental modeling error.
 </blockquote>
 </details>
 </td>
@@ -212,54 +217,55 @@ This dynamic governs business relationships, open-source software, professional 
 <table width="100%">
 <tr>
 <th colspan="2" align="left">
-🔴 🟡 🟢 &nbsp; <code><b>daemon // coopetition-mesh:v1.8 [PID: 8192]</b></code> &nbsp;
-<img src="https://img.shields.io/badge/STATUS-EQUILIBRIUM%20ACTIVE%20%E2%97%8F-10b981?style=flat-square&logo=prometheus&logoColor=white" height="18" alt="Status" />
-<img src="https://img.shields.io/badge/STRUCTURE-NON--ZERO--SUM%20DUALITY-38bdf8?style=flat-square" height="18" alt="Structure" />
+<code>[sys::daemon] // coopetition-mesh:v1.8 [PID: 8192]</code> &nbsp;
+<img src="https://img.shields.io/badge/STATUS-EQUILIBRIUM_ACTIVE-10b981?style=flat-square&labelColor=0b0e14" height="18" alt="Status" />
+<img src="https://img.shields.io/badge/TOPOLOGY-NON--ZERO--SUM_DUALITY-38bdf8?style=flat-square&labelColor=0b0e14" height="18" alt="Structure" />
 </th>
 </tr>
 <tr>
 <td width="48%" valign="top">
-<h4>🌐 Station 3: Cooperation vs. Competition (Co-opetition)</h4>
+<h4>STATION_03 :: COOPERATION VS. COMPETITION (CO-OPETITION)</h4>
 <p>
-<b>Cooperation and competition are not opposites—they operate simultaneously at different layers of the same system.</b> Competitors frequently benefit from establishing shared protocols, common infrastructure, and market expansion while competing on product execution.
+<b>Cooperation and competition are not opposites—they are decoupled layers within the same architecture.</b>
+Market participants benefit from collaborative coordination at the foundational protocol tier while engaging in rigorous zero-sum competition at the application tier.
 </p>
 <pre>
-┌──────────────────────────────────────────────────┐
-│ LAYER 2: APPLICATION & MARKET CAPTURE            │
-│ Pure Zero-Sum: Price, product differentiation    │
-├──────────────────────────────────────────────────┤
-│ LAYER 1: PROTOCOL & COMMON INFRASTRUCTURE        │
-│ Positive-Sum: Standards, network size, tooling   │
-└──────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────┐
+│ LAYER 2 :: APPLICATION & PRODUCT RIVALRY                 │
+│ Zero-Sum Game: Margin capture, customer acquisition      │
+├──────────────────────────────────────────────────────────┤
+│ LAYER 1 :: PROTOCOL & SHARED INFRASTRUCTURE              │
+│ Positive-Sum Game: Open standards, interoperability, scale│
+└──────────────────────────────────────────────────────────┘
 </pre>
 </td>
 <td width="52%" valign="top">
 <p>
-<code><b>[LIVE_COOPETITION_STREAM]</b></code><br />
+<code><b>[TELEMETRY_LOGS]</b></code><br />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&pause=1200&color=38BDF8&background=0B0E1400&vCenter=true&width=410&lines=%3E%20mapping%20payoff%20duality%3A%20infra%20vs%20customer%20capture...;%3E%20positive-sum%20protocol%3A%20surplus%20expanded%20by%203.2x...;%3E%20zero-sum%20application%3A%20Bertrand%20price%20competition...;%3E%20co-opetition%3A%20shared%20standard%20%2B%20product%20rivalry" alt="Live Coopetition Stream" />
 </p>
 <p>
-• <b>Non-Zero-Sum Horizon:</b> <code>Total pie expands via joint standardization (+3.2x surplus)</code><br />
-• <b>Competitive Slice:</b> <code>Marginal rivalry for local market share at the application layer</code><br />
-• <b>Strategic Takeaway:</b> <code>A competitive environment does not eliminate cooperative games</code>
+• <b>Network Effect Tier:</b> <code>Shared infrastructure expands aggregate surplus (+3.2x market base)</code><br />
+• <b>Execution Tier:</b> <code>Intense Bertrand/Cournot competition for application-level share</code><br />
+• <b>Architectural Rule:</b> <code>Competitive markets do not preclude cooperative protocols</code>
 </p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
 <details>
-<summary><b>🔍 [CLICK TO EXPAND BUILD-IN-PUBLIC BREAKDOWN: COOPERATION VS. COMPETITION]</b></summary>
+<summary><b>[+] INSPECT MULTI-TIER MECHANISM DESIGN & INCENTIVE ALIGNMENT</b></summary>
 <br />
 <blockquote>
-<b>We generally tend to treat cooperation and competition as opposites.</b>
+<b>Cooperation and competition are routinely mischaracterized as mutually exclusive.</b>
 <br /><br />
-If two entities are competing, we assume they work against each other. If they cooperate, we assume their interests are aligned. But the reality of complex systems is rarely binary:
+In conventional discourse, competition implies adversaries working against each other, while cooperation implies aligned interests. In complex systems engineering and mechanism design, the boundary is layered:
 <br /><br />
-Consider two tech companies operating in the same market. They compete fiercely for customers, market share, and revenue. Yet, both benefit from maintaining open industry standards, developing common infrastructure, and expanding the total addressable market. They cooperate at the infrastructure layer and compete at the application layer.
+Consider technology firms operating in shared ecosystems. They compete for customer volume, margins, and proprietary differentiation. Simultaneously, they invest in common protocols (e.g. Linux kernel, POSIX, open network standards) because expanding the shared foundation broadens the total accessible surface area for all participants.
 <br /><br />
-In Game Theory, an outcome depends not only on what one player chooses, but on what other players decide simultaneously. A player's strategy cannot be evaluated in isolation.
+In Game Theory, an agent's payoff function cannot be evaluated in isolation—it is strictly conditional on the action vector of other participants: <code>uᵢ(sᵢ, s₋ᵢ)</code>.
 <br /><br />
-<b>Key Principle:</b> Cooperation and competition are not mutually exclusive. Their relationship depends on game structure, available information, incentives, and whether participants interact repeatedly. A competitive environment does not eliminate cooperation; similarly, cooperation does not mean participants possess identical interests. Understanding this duality is essential for architecting systems that survive real-world pressures.
+<b>Core Principle:</b> Co-opetition is structurally rational. Cooperation does not require identical payoff vectors; it requires positive-sum surplus at the coordination boundary. Understanding this duality allows systems architects to decouple shared infrastructure from competitive product execution.
 </blockquote>
 </details>
 </td>
@@ -268,7 +274,7 @@ In Game Theory, an outcome depends not only on what one player chooses, but on w
 
 ---
 
-### `04 // LIVE AUTOMATED METRICS`
+### [ 04 ] AUTOMATED METRIC TELEMETRY
 
 <div align="center">
   <!-- Dynamic GitHub Stats (Auto-updates via GitHub API) -->
@@ -286,13 +292,13 @@ In Game Theory, an outcome depends not only on what one player chooses, but on w
 
 ---
 
-### `05 // AT A GLANCE`
+### [ 05 ] REPOSITORY SUMMARY
 
 <!--START:stats-->
 **40** public repositories · **1** stars earned · **12** followers
 <!--END:stats-->
 
-### `06 // LANGUAGES ACROSS REPOSITORIES`
+### [ 06 ] BYTECODE DISTRIBUTION
 
 <!--START:languages-->
 ```text
@@ -305,7 +311,7 @@ Swift         ░░░░░░░░░░░░░░░░░░░░   2.3
 ```
 <!--END:languages-->
 
-### `07 // RECENT REPOSITORY ACTIVITY`
+### [ 07 ] EVENT ACTIVITY LOG
 
 <!--START:activity-->
 - `2026-11-11` Pushed to [mahinigam/archatlas](https://github.com/mahinigam/archatlas)
@@ -318,6 +324,6 @@ Swift         ░░░░░░░░░░░░░░░░░░░░   2.3
 ---
 
 <p align="center">
-  Open to internships and collaboration on AI/ML, Strategic Systems, and Backend Architecture. <br />
+  Open to research, engineering, and collaboration on AI/ML, Strategic Systems, and Backend Architecture. <br />
   <sub>Engineered with precision • <a href="https://github.com/mahinigam">github.com/mahinigam</a></sub>
 </p>
