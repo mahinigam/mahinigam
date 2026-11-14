@@ -284,10 +284,10 @@ In Game Theory, an agent's payoff function cannot be evaluated in isolation—it
 
 <!--START:languages-->
 ```text
-Python        ██████████░░░░░░░░░░  49.2%
-TypeScript    ████████░░░░░░░░░░░░  42.3%
+Python        ██████████░░░░░░░░░░  49.4%
+TypeScript    ████████░░░░░░░░░░░░  42.1%
 JavaScript    █░░░░░░░░░░░░░░░░░░░   3.4%
-Swift         █░░░░░░░░░░░░░░░░░░░   2.5%
+Swift         ░░░░░░░░░░░░░░░░░░░░   2.5%
 Java          ░░░░░░░░░░░░░░░░░░░░   2.2%
 ```
 <!--END:languages-->
