@@ -280,16 +280,14 @@ In Game Theory, an agent's payoff function cannot be evaluated in isolation—it
 **40** public repositories · **1** stars earned · **12** followers
 <!--END:stats-->
 
-### [ 05 ] BYTECODE DISTRIBUTION
+### [ 05 ] SOURCE CODE DISTRIBUTION
 
 <!--START:languages-->
 ```text
-Python        █████████░░░░░░░░░░░  45.1%
-TypeScript    ████████░░░░░░░░░░░░  38.8%
-HTML          █░░░░░░░░░░░░░░░░░░░   5.1%
-JavaScript    █░░░░░░░░░░░░░░░░░░░   3.1%
-CSS           █░░░░░░░░░░░░░░░░░░░   2.8%
-Swift         ░░░░░░░░░░░░░░░░░░░░   2.3%
+Python        ██████████░░░░░░░░░░  50.5%
+TypeScript    █████████░░░░░░░░░░░  43.4%
+JavaScript    █░░░░░░░░░░░░░░░░░░░   3.5%
+Swift         █░░░░░░░░░░░░░░░░░░░   2.6%
 ```
 <!--END:languages-->
 

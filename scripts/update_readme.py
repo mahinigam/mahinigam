@@ -16,8 +16,17 @@ USER = os.environ.get("GH_USER", "mahinigam")
 TOKEN = os.environ.get("GITHUB_TOKEN")
 README = Path(__file__).resolve().parent.parent / "README.md"
 
-EXCLUDE_LANGS = {"Jupyter Notebook"}  # notebooks inflate byte counts
-TOP_LANGS = 6
+EXCLUDE_LANGS = {
+    "Jupyter Notebook",
+    "HTML",
+    "CSS",
+    "SCSS",
+    "Less",
+    "Dockerfile",
+    "Makefile",
+    "TeX",
+}  # Exclude markup, styles, and config to reflect real programming code
+TOP_LANGS = 5
 MAX_EVENTS = 5
 
 
@@ -60,15 +69,25 @@ def build_stats(repos):
 
 def build_languages(repos):
     totals = Counter()
+    rate_limited = False
     for r in repos:
-        if r["archived"]:
+        if r.get("archived") or r.get("fork"):
             continue
         try:
             for lang, n in api(r["languages_url"]).items():
                 if lang not in EXCLUDE_LANGS:
                     totals[lang] += n
+        except urllib.error.HTTPError as err:
+            if err.code in (403, 429):
+                rate_limited = True
+                break
+            continue
         except Exception:
             continue
+
+    if rate_limited:
+        raise RuntimeError("GitHub API rate limit encountered during language scan; preserving cached distribution")
+
     whole = sum(totals.values())
     if not whole:
         raise RuntimeError("no language data")
