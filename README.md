@@ -274,31 +274,13 @@ In Game Theory, an agent's payoff function cannot be evaluated in isolation—it
 
 ---
 
-### [ 04 ] AUTOMATED METRIC TELEMETRY
-
-<div align="center">
-  <!-- Dynamic GitHub Stats (Auto-updates via GitHub API) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahinigam&show_icons=true&theme=tokyonight&bg_color=0b0e14&border_color=26314a&title_color=38bdf8&icon_color=38bdf8&text_color=e8eef7" alt="GitHub Stats" />
-  
-  <!-- Dynamic Top Languages (Auto-updates from repos) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahinigam&layout=compact&theme=tokyonight&bg_color=0b0e14&border_color=26314a&title_color=38bdf8&text_color=e8eef7" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <br />
-  <!-- Dynamic Contribution Streak (Auto-updates continuously) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahinigam&theme=tokyonight&background=0b0e14&border=26314a&stroke=26314a&ring=38bdf8&fire=38bdf8&currStreakNum=e8eef7&currStreakLabel=38bdf8&sideNums=e8eef7&sideLabels=a7b6ca" alt="Streak Stats" />
-</div>
-
----
-
-### [ 05 ] REPOSITORY SUMMARY
+### [ 04 ] REPOSITORY SUMMARY
 
 <!--START:stats-->
 **40** public repositories · **1** stars earned · **12** followers
 <!--END:stats-->
 
-### [ 06 ] BYTECODE DISTRIBUTION
+### [ 05 ] BYTECODE DISTRIBUTION
 
 <!--START:languages-->
 ```text
@@ -311,7 +293,7 @@ Swift         ░░░░░░░░░░░░░░░░░░░░   2.3
 ```
 <!--END:languages-->
 
-### [ 07 ] EVENT ACTIVITY LOG
+### [ 06 ] EVENT ACTIVITY LOG
 
 <!--START:activity-->
 - `2026-11-14` Pushed to [mahinigam/disvent](https://github.com/mahinigam/disvent)
