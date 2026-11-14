@@ -302,12 +302,12 @@ In Game Theory, an agent's payoff function cannot be evaluated in isolation—it
 
 <!--START:languages-->
 ```text
-Python        ████████░░░░░░░░░░░░  38.2%
-JavaScript    ███████░░░░░░░░░░░░░  35.6%
-CSS           ████░░░░░░░░░░░░░░░░  20.8%
-C#            ░░░░░░░░░░░░░░░░░░░░   2.2%
-Shell         ░░░░░░░░░░░░░░░░░░░░   1.3%
-Dockerfile    ░░░░░░░░░░░░░░░░░░░░   1.1%
+Python        █████████░░░░░░░░░░░  45.1%
+TypeScript    ████████░░░░░░░░░░░░  38.8%
+HTML          █░░░░░░░░░░░░░░░░░░░   5.1%
+JavaScript    █░░░░░░░░░░░░░░░░░░░   3.1%
+CSS           █░░░░░░░░░░░░░░░░░░░   2.8%
+Swift         ░░░░░░░░░░░░░░░░░░░░   2.3%
 ```
 <!--END:languages-->
 
@@ -316,9 +316,9 @@ Dockerfile    ░░░░░░░░░░░░░░░░░░░░   1.1
 <!--START:activity-->
 - `2026-11-14` Pushed to [mahinigam/disvent](https://github.com/mahinigam/disvent)
 - `2026-11-11` Pushed to [mahinigam/archatlas](https://github.com/mahinigam/archatlas)
+- `2026-11-10` Pushed to [mahinigam/archatlas](https://github.com/mahinigam/archatlas)
+- `2026-11-04` Released in [mahinigam/breakpoint](https://github.com/mahinigam/breakpoint)
 - `2026-11-04` Pushed to [mahinigam/breakpoint](https://github.com/mahinigam/breakpoint)
-- `2026-11-03` Pushed to [mahinigam/portfolio-website](https://github.com/mahinigam/portfolio-website)
-- `2026-11-02` Pushed to [mahinigam/codebase-cartographer](https://github.com/mahinigam/codebase-cartographer)
 <!--END:activity-->
 
 ---
