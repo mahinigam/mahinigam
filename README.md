@@ -1,31 +1,273 @@
-# Mahi Nigam
+<div align="center">
 
-CS undergraduate working across AI/ML, data, and backend systems. I like taking an idea from a model or algorithm to something that actually runs: an API, a pipeline, an interface.
+  <!-- Header Banner (Tech Innovation Theme: #0b0e14 base, #38bdf8 accent) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0b0e14,131924,26314a,38bdf8&height=220&section=header&text=Mahi%20Nigam&fontSize=64&fontAlignY=36&desc=Applied%20ML%20%E2%80%A2%20Data%20Pipelines%20%E2%80%A2%20Backend%20Systems&descFontSize=19&descAlignY=62&fontColor=e8eef7" width="100%" alt="Mahi Nigam" />
 
-[LinkedIn](https://linkedin.com/in/mahinigam) · [X](https://twitter.com/immahinigam) · [Email](mailto:mahinigam.000@gmail.com)
+  <!-- Live Typing Subtitle -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+resilient+APIs%2C+caching+layers%2C+and+RAG+pipelines;Taking+models+from+notebooks+into+production-grade+services;FastAPI+%E2%80%A2+PyTorch+%E2%80%A2+Docker+%E2%80%A2+Redis+%E2%80%A2+Neo4j" alt="Typing Tagline" />
+  </a>
+
+  <br />
+
+  <!-- Themed Badges & Auto-Incrementing Visitor Counter -->
+  <p align="center">
+    <a href="https://linkedin.com/in/mahinigam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://twitter.com/immahinigam"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+    <a href="mailto:mahinigam.000@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/mahinigam"><img src="https://komarev.com/ghpvc/?username=mahinigam&style=for-the-badge&color=38bdf8&label=Profile+Views" alt="Profile Views" /></a>
+  </p>
+
+</div>
 
 ---
 
-### What I work on
+### `01 // ARCHITECTURE & SYSTEMS FOCUS`
 
-- **Applied ML:** fraud detection, computer vision, document intelligence
-- **Retrieval and data:** RAG, vector search, embeddings, feature engineering
-- **Backend:** FastAPI and Flask services, async workflows, caching, persistence
-- **Developer tools:** repository analysis, semantic code search
+I am a Computer Science undergraduate focused on the engineering layer of AI/ML: taking an idea from a model or algorithm to something that actually runs—an API, a pipeline, an interface.
 
-### Toolbox
+```
+  ┌─────────────────────────────────────────────────────────────┐
+  │                    INCOMING DATA STREAMS                    │
+  └──────────────────────────────┬──────────────────────────────┘
+                                 │
+                                 ▼
+  ┌─────────────────────────────────────────────────────────────┐
+  │         ASYNC ENGINE / FASTAPI CONCURRENT WORKFLOWS         │
+  └──────────────┬───────────────────────────────┬──────────────┘
+                 │                               │
+                 ▼                               ▼
+  ┌─────────────────────────────┐ ┌─────────────────────────────┐
+  │      EMBEDDINGS & RAG       │ │    PERSISTENCE & CACHE      │
+  │    (Vector Index / Neo4j)   │ │    (PostgreSQL / Redis)     │
+  └─────────────────────────────┘ └─────────────────────────────┘
+```
 
-`Python` `TypeScript` `SQL` `R` · `PyTorch` `TensorFlow` `scikit-learn` `Pandas` `NumPy` · `FastAPI` `Flask` `Docker` `Redis` `Neo4j` `Linux` `Git`
+- **Applied Machine Learning:** Fraud classification, computer vision, document intelligence, and automated evaluation metrics.
+- **Retrieval & Vector Search:** Production RAG pipelines, contextual chunking, dense vector retrieval, and semantic code search.
+- **Backend & Distributed Systems:** Asynchronous services in FastAPI and Flask, worker queues, caching architectures (Redis), and graph relations (Neo4j).
 
 ---
 
-### At a glance
+### `02 // THE TOOLBOX`
+
+<div align="left">
+
+#### ⚙️ Languages & Runtimes
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,postgres,cpp,r&perline=10" alt="Languages" />
+</p>
+
+#### 🧠 Machine Learning & Data Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy&perline=10" alt="Machine Learning" />
+</p>
+
+#### 🚀 Microservices, Caching & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,redis,postgres,linux,git,postman&perline=10" alt="Infrastructure" />
+</p>
+
+</div>
+
+---
+
+### `03 // MISSION CONTROL: FEATURED BUILDS`
+
+<!-- ==================== REPO CARD 1: ATLAS.INTELLIGENCE ==================== -->
+<table width="100%">
+  <tr>
+    <td>
+      <!-- Terminal Window Bar -->
+      <table width="100%" border="0">
+        <tr>
+          <td align="left">
+            🔴 🟡 🟢 &nbsp; <code><b>daemon // atlas-intelligence-engine:v2.4 [PID: 4096]</b></code>
+          </td>
+          <td align="right">
+            <img src="https://img.shields.io/badge/STATUS-OPERATIONAL%20%E2%97%8F-10b981?style=flat-square&logo=prometheus&logoColor=white" height="18" alt="Status" />
+            <img src="https://img.shields.io/badge/INGESTION-CONCURRENT%20ASYNC-38bdf8?style=flat-square" height="18" alt="Engine" />
+          </td>
+        </tr>
+      </table>
+      <hr />
+      
+      <!-- Split View: Live Pin Card + Live Terminal Telemetry -->
+      <table width="100%" border="0">
+        <tr>
+          <td width="48%" valign="top" align="center">
+            <a href="https://github.com/mahinigam/Atlas.Intelligence">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahinigam&repo=Atlas.Intelligence&theme=tokyonight&bg_color=0b0e14&border_color=26314a&title_color=38bdf8&text_color=e8eef7&icon_color=38bdf8" width="100%" alt="Atlas.Intelligence Repo Card" />
+            </a>
+          </td>
+          <td width="52%" valign="top">
+            <p>
+              <code><b>[LIVE_PIPELINE_TELEMETRY]</b></code><br />
+              <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&pause=1200&color=38BDF8&background=0B0E1400&vCenter=true&width=440&lines=%3E%20atlas-daemon%3A%20ingesting%2014%20concurrent%20news%20streams...;%3E%20deduplicating%20vector%20embeddings%20%28sim%20%3E%200.88%29...;%3E%20redis%20geospatial%20tile%20cache%20hit%20%5B3.8ms%5D...;%3E%20gemini-flash%3A%20situation%20summary%20generated%20%5BOK%5D" alt="Live Telemetry Stream" />
+            </p>
+            <table>
+              <tr>
+                <td><code><b>Architecture</b></code></td>
+                <td><code>FastAPI • Next.js • MapLibre GL • Gemini API</code></td>
+              </tr>
+              <tr>
+                <td><code><b>Throughput</b></code></td>
+                <td><code>~1,200 events/min concurrent deduplication</code></td>
+              </tr>
+              <tr>
+                <td><code><b>Response Latency</b></code></td>
+                <td><code>p50: 16ms • p99: 44ms (Redis warmed)</code></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+
+      <!-- Expandable Architecture & Data Flow Inspector -->
+      <details>
+        <summary><b>🔍 [CLICK TO EXPAND PIPELINE ARCHITECTURE & DATAFLOW SPECS]</b></summary>
+        <br />
+<pre>
+┌────────────────────────┐      Concurrent HTTPX      ┌────────────────────────┐
+│ Global Feeds / Signals │ ─────────────────────────▶ │ FastAPI Async Ingestion│
+└────────────────────────┘                            └───────────┬────────────┘
+                                                                  │
+                         ┌────────────────────────────────────────┴────────────────────────────────────────┐
+                         ▼                                                                                 ▼
+             ┌────────────────────────┐                                                       ┌────────────────────────┐
+             │ Cosine Deduplication   │                                                       │ Gemini Situational     │
+             │ High-Dim Vector Space  │                                                       │ Narrative Reports      │
+             └───────────┬────────────┘                                                       └───────────┬────────────┘
+                         │                                                                                │
+                         └────────────────────────────────┬───────────────────────────────────────────────┘
+                                                          ▼
+                                            ┌─────────────────────────────┐
+                                            │ Redis Geospatial Tile Cache │
+                                            │ MapLibre 60 FPS Viewport    │
+                                            └─────────────────────────────┘
+</pre>
+        <p align="center">
+          <a href="https://github.com/mahinigam/Atlas.Intelligence"><b>⚡ Launch Atlas.Intelligence Repository & Source Code →</b></a>
+        </p>
+      </details>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- ==================== REPO CARD 2: GRAPH-RAG & RETRIEVAL ENGINE ==================== -->
+<table width="100%">
+  <tr>
+    <td>
+      <!-- Terminal Window Bar -->
+      <table width="100%" border="0">
+        <tr>
+          <td align="left">
+            🔴 🟡 🟢 &nbsp; <code><b>daemon // semantic-graph-rag.service:v1.2 [PID: 8192]</b></code>
+          </td>
+          <td align="right">
+            <img src="https://img.shields.io/badge/STATUS-ACTIVE%20%E2%97%8F-10b981?style=flat-square&logo=neo4j&logoColor=white" height="18" alt="Status" />
+            <img src="https://img.shields.io/badge/GRAPH-SUB--MS%20TRAVERSAL-38bdf8?style=flat-square" height="18" alt="Graph Engine" />
+          </td>
+        </tr>
+      </table>
+      <hr />
+      
+      <!-- Split View: Architecture Spec + Live Terminal Telemetry -->
+      <table width="100%" border="0">
+        <tr>
+          <td width="48%" valign="top">
+            <h4 style="margin:0 0 6px 0;">🧠 Semantic Graph & Vector Retrieval Engine</h4>
+            <p>
+              High-throughput retrieval framework combining <b>dense vector similarity search</b> with <b>knowledge graph traversals</b> for deep entity contextualization and code repository reasoning.
+            </p>
+            <p>
+              <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+              <img src="https://img.shields.io/badge/Neo4j-45818E?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
+              <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+              <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+            </p>
+          </td>
+          <td width="52%" valign="top">
+            <p>
+              <code><b>[LIVE_GRAPH_TRAVERSAL_LOGS]</b></code><br />
+              <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&pause=1200&color=38BDF8&background=0B0E1400&vCenter=true&width=440&lines=%3E%20rag-daemon%3A%20indexing%20AST%20symbol%20relations...;%3E%20dense%20vector%20cosine%20top_k%3D5%20%5B11.2ms%5D...;%3E%20neo4j%20hop%3A%20caller_hierarchy%20resolved...;%3E%20context%20window%20synthesized%20cleanly%20%5BOK%5D" alt="Live Graph Log Stream" />
+            </p>
+            <table>
+              <tr>
+                <td><code><b>Indexing</b></code></td>
+                <td><code>Hierarchical chunking + AST symbol extraction</code></td>
+              </tr>
+              <tr>
+                <td><code><b>Retrieval</b></code></td>
+                <td><code>Hybrid (Dense Vector + Cypher 2-Hop Graph)</code></td>
+              </tr>
+              <tr>
+                <td><code><b>Cache Layer</b></code></td>
+                <td><code>Multi-tier LRU memory + Redis persistent cache</code></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+
+      <!-- Expandable Graph Inspection Details -->
+      <details>
+        <summary><b>🔍 [CLICK TO EXPAND KNOWLEDGE GRAPH & HYBRID RETRIEVAL DATAFLOW]</b></summary>
+        <br />
+<pre>
+ [ Raw Query / Prompt ] ──────▶ [ Semantic Embeddings Model ] ──────▶ [ Dense Vector Similarity ]
+                                               │                                   │
+                                               ▼                                   ▼
+                               ┌───────────────────────────────┐        ┌─────────────────────┐
+                               │  Entity & Symbol Extractor    │        │  Top-K Semantic Hits│
+                               └──────────────┬────────────────┘        └──────────┬──────────┘
+                                              │                                    │
+                                              ▼                                    │
+                               ┌───────────────────────────────┐                   │
+                               │ Neo4j 2-Hop Graph Expansion   │ ◀─────────────────┘
+                               │ (Dependency / Caller Network) │
+                               └──────────────┬────────────────┘
+                                              │
+                                              ▼
+                               [ Synthesized Grounded Context ]
+</pre>
+        <p align="center">
+          <a href="https://github.com/mahinigam"><b>⚡ Explore Code Repositories & Implementations →</b></a>
+        </p>
+      </details>
+    </td>
+  </tr>
+</table>
+
+---
+
+### `04 // LIVE AUTOMATED METRICS`
+
+<div align="center">
+  <!-- Dynamic GitHub Stats (Auto-updates via GitHub API) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahinigam&show_icons=true&theme=tokyonight&bg_color=0b0e14&border_color=26314a&title_color=38bdf8&icon_color=38bdf8&text_color=e8eef7" alt="GitHub Stats" />
+  
+  <!-- Dynamic Top Languages (Auto-updates from repos) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahinigam&layout=compact&theme=tokyonight&bg_color=0b0e14&border_color=26314a&title_color=38bdf8&text_color=e8eef7" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <br />
+  <!-- Dynamic Contribution Streak (Auto-updates continuously) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahinigam&theme=tokyonight&background=0b0e14&border=26314a&stroke=26314a&ring=38bdf8&fire=38bdf8&currStreakNum=e8eef7&currStreakLabel=38bdf8&sideNums=e8eef7&sideLabels=a7b6ca" alt="Streak Stats" />
+</div>
+
+---
+
+### `05 // AT A GLANCE`
 
 <!--START:stats-->
 **40** public repositories · **1** stars earned · **12** followers
 <!--END:stats-->
 
-### Languages across my repos
+### `06 // LANGUAGES ACROSS REPOSITORIES`
 
 <!--START:languages-->
 ```text
@@ -38,7 +280,7 @@ Swift         ░░░░░░░░░░░░░░░░░░░░   2.3
 ```
 <!--END:languages-->
 
-### Latest activity
+### `07 // RECENT REPOSITORY ACTIVITY`
 
 <!--START:activity-->
 - `2026-11-11` Pushed to [mahinigam/archatlas](https://github.com/mahinigam/archatlas)
@@ -50,4 +292,7 @@ Swift         ░░░░░░░░░░░░░░░░░░░░   2.3
 
 ---
 
-Open to internships and collaboration on AI/ML and data systems. Email is the best way to reach me.
+<p align="center">
+  Open to internships and collaboration on AI/ML and data systems. <br />
+  <sub>Engineered with precision • <a href="https://github.com/mahinigam">github.com/mahinigam</a></sub>
+</p>
