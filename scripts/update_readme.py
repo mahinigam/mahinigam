@@ -80,7 +80,7 @@ def build_languages(repos):
     return "```text\n" + "\n".join(lines) + "\n```"
 
 
-def build_activity(_repos):
+def build_activity(repos):
     verbs = {
         "PushEvent": "Pushed to",
         "PullRequestEvent": "Pull request in",
@@ -88,16 +88,36 @@ def build_activity(_repos):
         "IssuesEvent": "Issue in",
         "CreateEvent": "Created",
     }
-    events = api(f"https://api.github.com/users/{USER}/events/public?per_page=100")
-    events.sort(key=lambda e: e["created_at"], reverse=True)
+    candidates = []
+    # Real-time repository pushes from repo metadata (bypasses GitHub events feed delay)
+    for r in repos:
+        name = r.get("name")
+        if not name or name == USER:
+            continue
+        pushed = r.get("pushed_at")
+        if pushed:
+            candidates.append((pushed, "Pushed to", f"{USER}/{name}"))
+
+    # Public events stream (PRs, releases, issues, etc.)
+    try:
+        events = api(f"https://api.github.com/users/{USER}/events/public?per_page=100")
+        for e in events:
+            verb = verbs.get(e["type"])
+            if not verb:
+                continue
+            if e["type"] == "CreateEvent" and e["payload"].get("ref_type") != "repository":
+                continue
+            repo = e["repo"]["name"]
+            if repo == f"{USER}/{USER}":
+                continue
+            candidates.append((e["created_at"], verb, repo))
+    except Exception:
+        pass
+
+    candidates.sort(key=lambda x: x[0], reverse=True)
     seen, rows = set(), []
-    for e in events:
-        verb = verbs.get(e["type"])
-        if not verb:
-            continue
-        if e["type"] == "CreateEvent" and e["payload"].get("ref_type") != "repository":
-            continue
-        repo, day = e["repo"]["name"], e["created_at"][:10]
+    for ts, verb, repo in candidates:
+        day = ts[:10]
         key = (verb, repo, day)
         if key in seen:
             continue
