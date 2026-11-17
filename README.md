@@ -5,7 +5,7 @@
 
   <!-- Live Typing Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Game+Theory+%E2%80%A2+Multi-Agent+Systems+%E2%80%A2+Incentive+Design;Building+resilient+APIs%2C+caching+layers%2C+and+RAG+pipelines;Turning+models+and+algorithms+into+deterministic+production+services" alt="Typing Tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Game+Theory+%E2%80%A2+Multi-Agent+Systems+%E2%80%A2+Incentive+Design;Building+resilient+APIs%2C+caching+layers%2C+and+RAG+pipelines;Turning+models+into+deterministic+production+services" alt="Typing Tagline" />
   </a>
 
   <br />
