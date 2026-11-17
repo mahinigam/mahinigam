@@ -14,7 +14,7 @@
   <p align="center">
     <a href="https://linkedin.com/in/mahinigam"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0b0e14" alt="LinkedIn" /></a>
     <a href="https://twitter.com/immahinigam"><img src="https://img.shields.io/badge/X-181717?style=flat-square&logo=x&logoColor=white&labelColor=0b0e14" alt="X" /></a>
-    <a href="mailto:mahinigam.000@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0b0e14" alt="Email" /></a>
+    <a href="mailto:i.mahinigam@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0b0e14" alt="Email" /></a>
     <a href="https://github.com/mahinigam"><img src="https://komarev.com/ghpvc/?username=mahinigam&style=flat-square&color=38bdf8&label=SYS::VISITORS" alt="Profile Views" /></a>
   </p>
 
